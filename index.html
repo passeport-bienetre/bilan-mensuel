@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Votre bilan — Body Pass</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bp-cream: #FBF7F1;
+      --bp-cream-deep: #F2EBDF;
+      --bp-burgundy: #A3695B;
+      --bp-burgundy-dark: #8B5448;
+      --bp-champagne: #C2B59B;
+      --bp-text: #2C2826;
+      --bp-text-soft: #54504E;
+      --bp-text-mute: #7A7470;
+      --bp-divider: #E5DBC8;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--bp-cream);
+      color: var(--bp-text);
+      font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 64px 32px 64px;
+    }
+
+    .hero { text-align: center; padding-bottom: 8px; margin-bottom: 32px; }
+    .hero .eyebrow {
+      font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; margin-bottom: 18px;
+    }
+    .hero h1 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-size: 42px; line-height: 1.18; color: var(--bp-text);
+      margin: 0 0 18px 0; letter-spacing: -0.01em;
+    }
+    .hero h1 em { font-style: italic; color: var(--bp-burgundy); }
+    .hero p {
+      font-size: 16px; color: var(--bp-text-soft);
+      max-width: 640px; margin: 0 auto; line-height: 1.6;
+    }
+
+    .stats {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
+      background: #FFFFFF; border: 1px solid var(--bp-divider);
+      border-radius: 2px; margin-bottom: 48px; overflow: hidden;
+    }
+    .stat {
+      padding: 22px 20px; text-align: center;
+      border-right: 1px solid var(--bp-divider);
+      display: flex; flex-direction: column; justify-content: space-between;
+      min-height: 132px;
+    }
+    .stat:last-child { border-right: 0; }
+    .stat .label {
+      font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-text-mute); font-weight: 600;
+    }
+    .stat .figure {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-size: 30px; line-height: 1.1; color: var(--bp-burgundy);
+      letter-spacing: -0.01em;
+    }
+    .stat .figure .unit {
+      font-size: 14px; color: var(--bp-text-mute);
+      margin-left: 4px; font-style: italic;
+    }
+    .stat .caption {
+      font-size: 12px; color: var(--bp-text-soft);
+      line-height: 1.35; max-width: 220px; margin: 0 auto;
+    }
+
+    .section-head {
+      display: flex; align-items: baseline; gap: 16px; margin-bottom: 32px;
+    }
+    .section-head .label {
+      font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; white-space: nowrap;
+    }
+    .section-head .rule { flex: 1; height: 1px; background: var(--bp-divider); }
+    .section-intro {
+      font-size: 16px; color: var(--bp-text-soft);
+      max-width: 720px; margin: -8px 0 32px 0; line-height: 1.6;
+    }
+
+    .visites {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 24px; margin-bottom: 88px;
+    }
+    .visite {
+      background: #FFFFFF; border: 1px solid var(--bp-divider);
+      border-radius: 2px; overflow: hidden;
+      display: grid; grid-template-columns: 200px 1fr;
+      transition: transform 200ms ease, box-shadow 200ms ease;
+    }
+    .visite:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 28px rgba(44, 40, 38, 0.08);
+    }
+    .visite .media {
+      background-color: var(--bp-cream-deep);
+      background-size: cover; background-position: center;
+      min-height: 160px;
+    }
+    .visite .body {
+      padding: 22px 24px;
+      display: flex; flex-direction: column; justify-content: center;
+    }
+    .visite .category {
+      font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--bp-text-mute); margin-bottom: 8px;
+    }
+    .visite h3 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 500;
+      font-size: 22px; line-height: 1.2; color: var(--bp-text); margin: 0 0 12px 0;
+    }
+    .visite .visit-meta {
+      font-size: 13px; color: var(--bp-text-soft); margin: 0 0 14px 0;
+    }
+    .visite a.link {
+      font-size: 11px; font-weight: 600; letter-spacing: 0.14em;
+      text-transform: uppercase; color: var(--bp-burgundy);
+      text-decoration: none; align-self: flex-start;
+    }
+    .visite a.link:hover { color: var(--bp-burgundy-dark); }
+
+    .recos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
+    .reco {
+      background: #FFFFFF; border: 1px solid var(--bp-divider);
+      border-radius: 2px; overflow: hidden;
+      display: flex; flex-direction: column;
+      transition: transform 200ms ease, box-shadow 200ms ease;
+    }
+    .reco:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 28px rgba(44, 40, 38, 0.08);
+    }
+    .reco .media {
+      aspect-ratio: 4 / 3;
+      background-color: var(--bp-cream-deep);
+      background-size: cover; background-position: center;
+    }
+    .reco .body { padding: 24px 24px 28px; display: flex; flex-direction: column; flex: 1; }
+    .reco .badge {
+      display: inline-block; align-self: flex-start;
+      padding: 5px 10px; background: var(--bp-cream-deep); color: var(--bp-burgundy);
+      font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase;
+      font-weight: 600; border-radius: 2px; margin-bottom: 14px;
+    }
+    .reco .category {
+      font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase;
+      color: var(--bp-text-mute); margin-bottom: 10px;
+    }
+    .reco h3 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 500;
+      font-size: 22px; line-height: 1.25; color: var(--bp-text); margin: 0 0 18px 0;
+    }
+    .reco .blurb {
+      font-size: 15px; color: var(--bp-text-soft);
+      line-height: 1.55; margin: 0 0 24px 0; flex: 1;
+    }
+    .reco .cta {
+      display: inline-block; padding: 13px 22px;
+      background: transparent; color: var(--bp-burgundy);
+      border: 1px solid var(--bp-burgundy); text-decoration: none;
+      font-size: 12px; font-weight: 600; letter-spacing: 0.14em;
+      text-transform: uppercase; text-align: center;
+      border-radius: 2px; transition: all 150ms ease;
+    }
+    .reco .cta:hover { background: var(--bp-burgundy); color: #FFFFFF; }
+
+    .footer {
+      margin-top: 96px; padding-top: 56px;
+      border-top: 1px solid var(--bp-divider); text-align: center;
+    }
+    .footer img {
+      width: 240px; height: auto; display: block; margin: 0 auto 10px;
+    }
+    .footer .baseline {
+      font-size: 13px; color: var(--bp-text-soft); margin-bottom: 4px;
+    }
+    .footer .signature {
+      font-size: 12px; color: var(--bp-text-mute); font-style: italic;
+    }
+
+    .state-screen { text-align: center; padding: 120px 32px; max-width: 540px; margin: 0 auto; }
+    .state-screen .eyebrow {
+      font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; margin-bottom: 18px;
+    }
+    .state-screen h2 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-style: italic; font-size: 34px; line-height: 1.2;
+      color: var(--bp-text); margin: 0 0 18px 0;
+    }
+    .state-screen p { font-size: 16px; color: var(--bp-text-soft); line-height: 1.6; margin: 0; }
+    .state-screen a { color: var(--bp-burgundy); }
+
+    @media (max-width: 860px) {
+      .page { padding: 44px 20px 56px; }
+      .hero h1 { font-size: 34px; }
+      .stats { grid-template-columns: 1fr; }
+      .stat { border-right: 0; border-bottom: 1px solid var(--bp-divider); padding: 22px 20px; min-height: auto; }
+      .stat:last-child { border-bottom: 0; }
+      .visites { grid-template-columns: 1fr; }
+      .visite { grid-template-columns: 1fr; }
+      .visite .media { min-height: 180px; }
+      .recos { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page" id="app">
+    <div class="state-screen" id="loading">
+      <div class="eyebrow">Body Pass</div>
+      <h2>Un instant…</h2>
+    </div>
+  </div>
+
+  <template id="tpl-visite">
+    <article class="visite">
+      <div class="media"></div>
+      <div class="body">
+        <div class="category"></div>
+        <h3></h3>
+        <p class="visit-meta"></p>
+        <a class="link" href="#" target="_blank" rel="noopener">Voir l'établissement →</a>
+      </div>
+    </article>
+  </template>
+
+  <template id="tpl-reco">
+    <article class="reco">
+      <div class="media"></div>
+      <div class="body">
+        <div class="badge"></div>
+        <div class="category"></div>
+        <h3></h3>
+        <p class="blurb"></p>
+        <a class="cta" href="#" target="_blank" rel="noopener">Découvrir</a>
+      </div>
+    </article>
+  </template>
+
+  <script>
+    const FALLBACK_IMG = "https://bodypass-ch.github.io/bodypass-assets/etablissements/_default.jpg";
+    const app = document.getElementById("app");
+    const params = new URLSearchParams(location.search);
+    const token = params.get("t");
+
+    function showState(eyebrow, title, bodyHtml) {
+      app.innerHTML = `
+        <div class="state-screen">
+          <div class="eyebrow">${eyebrow}</div>
+          <h2>${title}</h2>
+          ${bodyHtml || ""}
+        </div>`;
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    function todayFr() {
+      try {
+        return new Date().toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
+      } catch (e) { return ""; }
+    }
+
+    function mediaStyle(url) {
+      const safe = (url || FALLBACK_IMG).replace(/"/g, "%22");
+      return `background-image: linear-gradient(135deg, rgba(44,40,38,0.18), rgba(44,40,38,0.02)), url('${safe}');`;
+    }
+
+    function metaLine(s) {
+      return [s.category, s.canton].filter(Boolean).join(" · ");
+    }
+
+    function visitMeta(v) {
+      const visits = v.visit_count > 1 ? `${v.visit_count} passages` : "1 passage";
+      const parts = [visits];
+      if (v.canton) parts.push(v.canton);
+      if (v.last_visit_fr) parts.push(`dernier le ${v.last_visit_fr}`);
+      return parts.join(" · ");
+    }
+
+    function render(data) {
+      const name = data.name || "";
+      const stats = data.stats || {};
+      const visites = data.visites || [];
+      const recos = data.recos || [];
+      const win = data.window || {};
+
+      app.innerHTML = "";
+
+      const hero = document.createElement("section");
+      hero.className = "hero";
+      hero.innerHTML = `
+        <div class="eyebrow">Votre bilan · ${win.start || ""} → ${win.end || todayFr()}</div>
+        <h1>Bonjour ${name},<br>voici votre mois <em>bien-être</em></h1>
+        <p>Ces 30 derniers jours avec Body Pass : les établissements que vous avez découverts, vos habitudes bien-être, vos économies… et quelques idées sélectionnées pour vous.</p>`;
+      app.appendChild(hero);
+
+      const statsEl = document.createElement("section");
+      statsEl.className = "stats";
+      statsEl.innerHTML = `
+        <div class="stat">
+          <div class="label">Visites</div>
+          <div class="figure">${stats.visites || 0}</div>
+          <div class="caption">établissements partenaires fréquentés</div>
+        </div>
+        <div class="stat">
+          <div class="label">Top catégorie</div>
+          <div class="figure">${stats.top_category || "—"}</div>
+          <div class="caption">la catégorie où vous êtes le plus allée</div>
+        </div>
+        <div class="stat">
+          <div class="label">Économies</div>
+          <div class="figure">${stats.economies_chf || 0}<span class="unit">CHF</span></div>
+          <div class="caption">grâce à votre carte Body Pass</div>
+        </div>`;
+      app.appendChild(statsEl);
+
+      if (visites.length > 0) {
+        const head = document.createElement("div");
+        head.className = "section-head";
+        head.innerHTML = `<div class="label">Vos passages</div><div class="rule"></div>`;
+        app.appendChild(head);
+
+        const intro = document.createElement("p");
+        intro.className = "section-intro";
+        intro.textContent = "Les établissements qui ont marqué votre mois — par ordre de visites.";
+        app.appendChild(intro);
+
+        const grid = document.createElement("section");
+        grid.className = "visites";
+        const tpl = document.getElementById("tpl-visite");
+        visites.forEach(v => {
+          const node = tpl.content.cloneNode(true);
+          node.querySelector(".media").setAttribute("style", mediaStyle(v.etab_photo_url));
+          node.querySelector(".category").textContent = (v.category || "").toUpperCase();
+          node.querySelector("h3").textContent = v.etab_name || "";
+          node.querySelector(".visit-meta").textContent = visitMeta(v);
+          const link = node.querySelector("a.link");
+          if (v.etab_url_public) link.href = v.etab_url_public;
+          else link.style.display = "none";
+          grid.appendChild(node);
+        });
+        app.appendChild(grid);
+      }
+
+      const recHead = document.createElement("div");
+      recHead.className = "section-head";
+      recHead.innerHTML = `<div class="label">Pour la suite</div><div class="rule"></div>`;
+      app.appendChild(recHead);
+
+      const recIntro = document.createElement("p");
+      recIntro.className = "section-intro";
+      recIntro.textContent = "Trois idées pour prolonger votre mois — choisies selon vos visites, votre région et les dernières nouveautés du réseau.";
+      app.appendChild(recIntro);
+
+      const recGrid = document.createElement("section");
+      recGrid.className = "recos";
+      const tplR = document.getElementById("tpl-reco");
+      recos.forEach(r => {
+        const node = tplR.content.cloneNode(true);
+        node.querySelector(".media").setAttribute("style", mediaStyle(r.etab_photo_url));
+        node.querySelector(".badge").textContent = r.badge || "";
+        node.querySelector(".category").textContent = metaLine(r) || " ";
+        node.querySelector("h3").textContent = r.etab_name || "";
+        const blurbEl = node.querySelector(".blurb");
+        if (r.blurb) blurbEl.textContent = r.blurb; else blurbEl.remove();
+        const cta = node.querySelector(".cta");
+        if (r.etab_url_public) cta.href = r.etab_url_public; else cta.style.display = "none";
+        recGrid.appendChild(node);
+      });
+      app.appendChild(recGrid);
+
+      const footer = document.createElement("div");
+      footer.className = "footer";
+      footer.innerHTML = `
+        <a href="https://www.bodypass.ch" target="_blank" rel="noopener">
+          <img src="https://mcusercontent.com/2fe53ca99e3207a69a56a254e/images/7eef1284-dc57-0b12-61e9-7b986171923e.png" alt="Body Pass" />
+        </a>
+        <div class="baseline">Body Pass, le passeport pour le bien-être</div>
+        <div class="signature">Préparé pour ${name} · ${todayFr()}</div>`;
+      app.appendChild(footer);
+    }
+
+    if (!token) {
+      showState(
+        "Body Pass",
+        "Cette page a expiré",
+        `<p>Le lien n'est plus valide. Retrouvez vos avantages sur <a href="https://www.bodypass.ch">bodypass.ch</a>.</p>`
+      );
+    } else {
+      fetch(`data/${token}.json`, { cache: "no-store" })
+        .then(r => { if (!r.ok) throw new Error("404"); return r.json(); })
+        .then(render)
+        .catch(() => showState(
+          "Body Pass",
+          "Cette page a expiré",
+          `<p>Ce lien n'est plus actif. Retrouvez vos avantages sur <a href="https://www.bodypass.ch">bodypass.ch</a>.</p>`
