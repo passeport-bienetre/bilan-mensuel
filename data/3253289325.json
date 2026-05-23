@@ -1,0 +1,55 @@
+{
+  "name": "Corinne",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Soins Hommes",
+    "economies_chf": 38
+  },
+  "visites": [
+    {
+      "etab_name": "Ipanema Beauté",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "8 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins Hommes",
+      "etab_name": "BEAUTY B",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}

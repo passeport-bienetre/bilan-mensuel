@@ -1,0 +1,64 @@
+{
+  "name": "Anne",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 2,
+    "top_category": "Lausanne région",
+    "economies_chf": 89
+  },
+  "visites": [
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "6 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+    },
+    {
+      "etab_name": "Nail Café",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "4 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Lausanne région",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Lausanne région",
+      "canton": "Vaud",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Massage",
+      "canton": "Vaud",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}

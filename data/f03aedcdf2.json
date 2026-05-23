@@ -1,0 +1,55 @@
+{
+  "name": "Romane",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Onglerie",
+    "economies_chf": 29
+  },
+  "visites": [
+    {
+      "etab_name": "CS Caro Création Studio",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "8 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Onglerie",
+      "etab_name": "Institut M&Vous",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "category": "Soins Hommes",
+      "canton": "Neuchâtel",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}

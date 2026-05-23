@@ -33,22 +33,12 @@
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Hôtels",
-      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_name": "Dent Blanche Resort & Lumen Spa",
       "category": "Hôtels",
-      "canton": "Vaud",
+      "canton": "Valais",
       "blurb": null,
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": null,
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-dent-blanche-resort-lumen-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/"
     },
     {
       "slot": "novelty",

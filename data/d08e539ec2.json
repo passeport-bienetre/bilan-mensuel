@@ -1,0 +1,45 @@
+{
+  "name": "Aude",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Massage",
+    "economies_chf": 40
+  },
+  "visites": [
+    {
+      "etab_name": "LES TRESOMS",
+      "category": "Massage",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "14 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Massage",
+      "etab_name": "BEAUTY B",
+      "category": "Massage",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Sara",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 76
+  },
+  "visites": [
+    {
+      "etab_name": "Salon Privé Chailly",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "18 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "etab_name": "Urban Spa",
+      "category": "Massage",
+      "canton": "Fribourg",
+      "visit_count": 1,
+      "last_visit_fr": "16 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/urban-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins Hommes",
+      "etab_name": "CLINIQUE MATIGNON FRIBOURG",
+      "category": "Soins Hommes",
+      "canton": "Fribourg",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/les-cliniques-matignon--fribourg.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-cliniques-matignon/fribourg/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}
