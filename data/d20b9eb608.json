@@ -5,9 +5,9 @@
     "end": "27 mai 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 105
+    "economies_chf": 70
   },
   "visites": [
     {
@@ -18,15 +18,6 @@
       "last_visit_fr": "5 mai 2026",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/"
-    },
-    {
-      "etab_name": "Sawatdee Delices",
-      "category": "Soins Duo",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "27 avril 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
     }
   ],
   "recos": [

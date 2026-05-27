@@ -41,6 +41,16 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
+      "slot": "same_canton",
+      "badge": "Une découverte pour vous",
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL BORSARI",

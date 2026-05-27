@@ -41,6 +41,16 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/"
     },
     {
+      "slot": "same_canton",
+      "badge": "Une découverte pour vous",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL BORSARI",

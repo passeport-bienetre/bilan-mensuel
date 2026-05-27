@@ -5,9 +5,9 @@
     "end": "27 mai 2026"
   },
   "stats": {
-    "visites": 3,
-    "top_category": "Soins du Visage",
-    "economies_chf": 150
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 110
   },
   "visites": [
     {
@@ -27,23 +27,14 @@
       "last_visit_fr": "18 mai 2026",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/skin-solution.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
-    },
-    {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "category": "Coiffure",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "27 avril 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins du Visage",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
-      "category": "Soins du Visage",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
