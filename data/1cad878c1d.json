@@ -1,13 +1,13 @@
 {
   "name": "Laetitia",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 71
+    "economies_chf": 40
   },
   "visites": [
     {
@@ -18,15 +18,6 @@
       "last_visit_fr": "8 mai 2026",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/"
-    },
-    {
-      "etab_name": "Salon Privé Gare",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "23 avril 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/"
     }
   ],
   "recos": [
@@ -36,7 +27,7 @@
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
-      "blurb": null,
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
@@ -46,7 +37,7 @@
       "etab_name": "Bhumi",
       "category": "Soins Bio",
       "canton": "Vaud",
-      "blurb": null,
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
@@ -56,7 +47,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }

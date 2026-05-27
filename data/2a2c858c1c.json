@@ -1,15 +1,24 @@
 {
   "name": "Akhilesh",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 22
+    "economies_chf": 54
   },
   "visites": [
+    {
+      "etab_name": "Salon Privé Gare",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "22 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
     {
       "etab_name": "LES BAINS PUBLICS",
       "category": "Soins Hommes",
@@ -27,7 +36,7 @@
       "etab_name": "Chandolin Boutique Hôtel",
       "category": "Soins Hommes",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     },
@@ -37,7 +46,7 @@
       "etab_name": "Chanelle and Co.",
       "category": "Epilation",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
     },
@@ -47,7 +56,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }

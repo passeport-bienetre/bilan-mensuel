@@ -1,15 +1,24 @@
 {
   "name": "M",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
     "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 75
+    "economies_chf": 72
   },
   "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
+      "category": "Epilation",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "22 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/vagheggi-phyto-space-crans-montana.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/"
+    },
     {
       "etab_name": "SUBLIMEYES",
       "category": "Soins Hommes",
@@ -18,15 +27,6 @@
       "last_visit_fr": "4 mai 2026",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
-    },
-    {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "24 avril 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     }
   ],
   "recos": [
@@ -36,7 +36,7 @@
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
-      "blurb": null,
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
@@ -46,7 +46,7 @@
       "etab_name": "Corps Sains",
       "category": "Future Maman",
       "canton": "Genève",
-      "blurb": null,
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/corps-sains.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
@@ -56,7 +56,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }

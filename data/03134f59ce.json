@@ -1,8 +1,8 @@
 {
   "name": "Claire",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
     "visites": 2,
@@ -36,7 +36,7 @@
       "etab_name": "1er Acte Coiffure",
       "category": "Lausanne région",
       "canton": "Vaud",
-      "blurb": null,
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
@@ -46,7 +46,7 @@
       "etab_name": "Chalet Royalp Hôtel & Spa",
       "category": "Massage",
       "canton": "Vaud",
-      "blurb": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
@@ -56,7 +56,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }

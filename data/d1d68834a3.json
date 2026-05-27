@@ -1,8 +1,8 @@
 {
   "name": "linda",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
     "visites": 1,
@@ -27,7 +27,7 @@
       "etab_name": "Institut M&Vous",
       "category": "Onglerie",
       "canton": "Neuchâtel",
-      "blurb": null,
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/"
     },
@@ -37,7 +37,7 @@
       "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
       "category": "Soins Hommes",
       "canton": "Neuchâtel",
-      "blurb": null,
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
     },
@@ -47,7 +47,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }

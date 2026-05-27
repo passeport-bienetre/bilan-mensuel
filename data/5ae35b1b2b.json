@@ -1,8 +1,8 @@
 {
   "name": "Cécile",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
     "visites": 1,
@@ -27,7 +27,7 @@
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
       "category": "Coiffure",
       "canton": "Genève",
-      "blurb": null,
+      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     },
@@ -37,7 +37,7 @@
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
-      "blurb": null,
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
@@ -47,7 +47,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }

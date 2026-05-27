@@ -1,8 +1,8 @@
 {
   "name": "Imogen",
   "window": {
-    "start": "23 avril 2026",
-    "end": "23 mai 2026"
+    "start": "27 avril 2026",
+    "end": "27 mai 2026"
   },
   "stats": {
     "visites": 1,
@@ -27,7 +27,7 @@
       "etab_name": "COMME SUR UN NUAGE",
       "category": "Future Maman",
       "canton": "Neuchâtel",
-      "blurb": null,
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
     },
@@ -37,7 +37,7 @@
       "etab_name": "HÔTEL BORSARI",
       "category": "Hôtels",
       "canton": "Valais",
-      "blurb": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
       "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }
