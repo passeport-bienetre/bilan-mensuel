@@ -58,7 +58,7 @@
     }
 
     .stats {
-      display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
+      display: grid; grid-template-columns: repeat(2, 1fr); gap: 0;
       background: #FFFFFF; border: 1px solid var(--bp-divider);
       border-radius: 2px; margin-bottom: 48px; overflow: hidden;
     }
@@ -325,11 +325,6 @@
           <div class="caption">établissements partenaires fréquentés</div>
         </div>
         <div class="stat">
-          <div class="label">Région favorite</div>
-          <div class="figure">${stats.top_canton || "—"}</div>
-          <div class="caption">là où vous êtes allée le plus souvent</div>
-        </div>
-        <div class="stat">
           <div class="label">Économies</div>
           <div class="figure">${stats.economies_chf || 0}<span class="unit">CHF</span></div>
           <div class="caption">grâce à votre carte Body Pass</div>
@@ -380,7 +375,10 @@
       recos.forEach(r => {
         const node = tplR.content.cloneNode(true);
         node.querySelector(".media").setAttribute("style", mediaStyle(r.etab_photo_url));
-        node.querySelector(".badge").textContent = r.badge || "";
+        const badgeText = r.slot === "favorite_category"
+          ? "On pense que vous allez l'adorer"
+          : (r.badge || "");
+        node.querySelector(".badge").textContent = badgeText;
         node.querySelector(".category").textContent = metaLine(r) || " ";
         node.querySelector("h3").textContent = r.etab_name || "";
         const blurbEl = node.querySelector(".blurb");
