@@ -1,8 +1,8 @@
 {
   "name": "Karen",
   "window": {
-    "start": "27 avril 2026",
-    "end": "27 mai 2026"
+    "start": "2 mai 2026",
+    "end": "1 juin 2026"
   },
   "stats": {
     "visites": 1,
@@ -16,7 +16,7 @@
       "canton": "Genève",
       "visit_count": 1,
       "last_visit_fr": "16 mai 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     }
   ],
@@ -28,7 +28,7 @@
       "category": "Massage",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
@@ -38,7 +38,7 @@
       "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "Hôtels",
       "canton": "Valais",
       "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "name": "Angélique",
   "window": {
-    "start": "27 avril 2026",
-    "end": "27 mai 2026"
+    "start": "2 mai 2026",
+    "end": "1 juin 2026"
   },
   "stats": {
     "visites": 2,
@@ -16,7 +16,7 @@
       "canton": "Genève",
       "visit_count": 1,
       "last_visit_fr": "7 mai 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     },
     {
@@ -25,7 +25,7 @@
       "canton": "Genève",
       "visit_count": 1,
       "last_visit_fr": "5 mai 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     }
   ],
@@ -37,7 +37,7 @@
       "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
@@ -47,7 +47,7 @@
       "category": "Future Maman",
       "canton": "Genève",
       "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
@@ -57,7 +57,7 @@
       "category": "Hôtels",
       "canton": "Valais",
       "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }
   ]

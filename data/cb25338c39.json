@@ -1,8 +1,8 @@
 {
   "name": "Cindy",
   "window": {
-    "start": "27 avril 2026",
-    "end": "27 mai 2026"
+    "start": "2 mai 2026",
+    "end": "1 juin 2026"
   },
   "stats": {
     "visites": 1,
@@ -16,7 +16,7 @@
       "canton": "Vaud",
       "visit_count": 1,
       "last_visit_fr": "20 mai 2026",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ],
@@ -28,7 +28,7 @@
       "category": "Future Maman",
       "canton": "Vaud",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
     },
     {
@@ -38,7 +38,7 @@
       "category": "Soins Hommes",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
@@ -48,7 +48,7 @@
       "category": "Hôtels",
       "canton": "Valais",
       "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
     }
   ]
