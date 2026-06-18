@@ -1,13 +1,13 @@
 {
   "name": "Olivia",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 3,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 155
+    "economies_chf": 210
   },
   "visites": [
     {
@@ -27,15 +27,6 @@
       "last_visit_fr": "19 mai 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/"
-    },
-    {
-      "etab_name": "Blossom Institut",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "6 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     }
   ],
   "recos": [
