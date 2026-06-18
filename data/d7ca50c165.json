@@ -1,15 +1,33 @@
 {
   "name": "Shadya",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Epilation",
-    "economies_chf": 25
+    "visites": 3,
+    "top_category": "Lausanne région",
+    "economies_chf": 170
   },
   "visites": [
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "category": "Coiffeur",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "13 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "etab_name": "Institut ZenSkin",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "6 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
     {
       "etab_name": "Espace Beauté Sarah",
       "category": "Epilation",
@@ -23,23 +41,23 @@
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Epilation",
-      "etab_name": "Bhumi",
-      "category": "Epilation",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Lausanne région",
       "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
+      "category": "Lausanne région",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Massage",
+      "canton": "Vaud",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "slot": "novelty",

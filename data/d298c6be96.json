@@ -1,31 +1,31 @@
 {
   "name": "Marie",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Lausanne région",
-    "economies_chf": 35
+    "top_category": "Soins Hommes",
+    "economies_chf": 125
   },
   "visites": [
     {
-      "etab_name": "Maison Perle",
-      "category": "Lausanne région",
+      "etab_name": "Arte Beauty EPFL",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "15 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/"
+      "last_visit_fr": "17 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Lausanne région",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
@@ -34,12 +34,12 @@
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "category": "Massage",
+      "etab_name": "Bhumi",
+      "category": "Soins Bio",
       "canton": "Vaud",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "novelty",

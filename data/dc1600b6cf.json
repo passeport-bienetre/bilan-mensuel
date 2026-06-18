@@ -1,15 +1,24 @@
 {
   "name": "M",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 72
+    "top_category": "Epilation",
+    "economies_chf": 155
   },
   "visites": [
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "27 mai 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
     {
       "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
       "category": "Epilation",
@@ -18,37 +27,28 @@
       "last_visit_fr": "22 mai 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vagheggi-phyto-space-crans-montana.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/"
-    },
-    {
-      "etab_name": "SUBLIMEYES",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "4 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
-      "etab_name": "BEAUTY B",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+      "badge": "Encore plus de Epilation",
+      "etab_name": "Chanelle and Co.",
+      "category": "Epilation",
+      "canton": "Valais",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
+      "etab_name": "Chandolin Boutique Hôtel",
       "category": "Future Maman",
-      "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+      "canton": "Valais",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     },
     {
       "slot": "novelty",

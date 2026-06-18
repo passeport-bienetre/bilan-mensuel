@@ -1,13 +1,13 @@
 {
   "name": "Alexia",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 100
+    "economies_chf": 40
   },
   "visites": [
     {
@@ -18,15 +18,6 @@
       "last_visit_fr": "23 mai 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/hairmania/"
-    },
-    {
-      "etab_name": "Le Mirador Resort & Spa",
-      "category": "Future Maman",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "15 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ],
   "recos": [
@@ -42,13 +33,13 @@
     },
     {
       "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Bhumi",
-      "category": "Soins Bio",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+      "badge": "Une découverte pour vous",
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
     },
     {
       "slot": "novelty",

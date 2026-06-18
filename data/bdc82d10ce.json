@@ -1,15 +1,24 @@
 {
   "name": "Sarah",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Coiffeur",
-    "economies_chf": 40
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 170
   },
   "visites": [
+    {
+      "etab_name": "Les Cliniques Matignon",
+      "category": "Soins Hommes",
+      "canton": " ",
+      "visit_count": 1,
+      "last_visit_fr": "10 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_url_public": null
+    },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
       "category": "Coiffeur",
@@ -23,9 +32,9 @@
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffeur",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
-      "category": "Coiffeur",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",

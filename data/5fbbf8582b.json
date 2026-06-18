@@ -1,23 +1,23 @@
 {
   "name": "Alba",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 50
+    "economies_chf": 70
   },
   "visites": [
     {
-      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_name": "SUBLIMEYES",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "12 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+      "last_visit_fr": "4 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [

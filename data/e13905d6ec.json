@@ -1,31 +1,31 @@
 {
   "name": "Gaëlle",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Hommes",
-    "economies_chf": 32
+    "top_category": "Coiffeur",
+    "economies_chf": 68
   },
   "visites": [
     {
-      "etab_name": "Institut Osmose",
-      "category": "Soins Hommes",
+      "etab_name": "BLOOM HAIR SALON",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "8 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/"
+      "last_visit_fr": "4 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bloom-hair-salon.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bloom-hair-salon/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Coiffeur",
       "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",

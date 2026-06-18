@@ -1,15 +1,24 @@
 {
   "name": "Suzanne",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Massage",
-    "economies_chf": 50
+    "economies_chf": 160
   },
   "visites": [
+    {
+      "etab_name": "CJ Coiffure",
+      "category": "Coiffeur",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "9 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
     {
       "etab_name": "Lumen Spa & Wellness",
       "category": "Massage",

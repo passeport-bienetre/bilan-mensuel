@@ -1,23 +1,23 @@
 {
   "name": "Carole",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 40
+    "economies_chf": 60
   },
   "visites": [
     {
-      "etab_name": "Karré Long",
+      "etab_name": "Guess What",
       "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "5 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/"
+      "last_visit_fr": "12 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/"
     }
   ],
   "recos": [

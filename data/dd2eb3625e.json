@@ -1,15 +1,24 @@
 {
   "name": "Fiona",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 70
+    "economies_chf": 208
   },
   "visites": [
+    {
+      "etab_name": "SAKURA LAB",
+      "category": "Epilation",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "12 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
     {
       "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "category": "Soins Hommes",

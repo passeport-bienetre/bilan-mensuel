@@ -1,15 +1,24 @@
 {
   "name": "Samantha",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 40
+    "economies_chf": 120
   },
   "visites": [
+    {
+      "etab_name": "Swiss Aesthetica",
+      "category": "Lausanne région",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "11 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
     {
       "etab_name": "Institut ZenSkin",
       "category": "Soins Hommes",

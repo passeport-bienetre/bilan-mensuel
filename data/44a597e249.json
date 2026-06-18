@@ -1,32 +1,32 @@
 {
   "name": "Soukayna",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 130
+    "economies_chf": 205
   },
   "visites": [
     {
-      "etab_name": "Skin Solution",
-      "category": "Massage",
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "7 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
+      "last_visit_fr": "9 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null
     },
     {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_name": "Ipanema Beauté",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "4 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/"
+      "last_visit_fr": "9 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
     }
   ],
   "recos": [

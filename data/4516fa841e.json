@@ -1,15 +1,24 @@
 {
   "name": "Lina",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 62
+    "economies_chf": 180
   },
   "visites": [
+    {
+      "etab_name": "Anita Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "3 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    },
     {
       "etab_name": "Arte Beauty EPFL",
       "category": "Soins Hommes",

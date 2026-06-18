@@ -1,15 +1,24 @@
 {
   "name": "Julia",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Lausanne région",
-    "economies_chf": 35
+    "economies_chf": 110
   },
   "visites": [
+    {
+      "etab_name": "Institut ZenSkin",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "2 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
     {
       "etab_name": "Maison Perle",
       "category": "Lausanne région",

@@ -1,15 +1,33 @@
 {
   "name": "Valentina",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Lausanne région",
-    "economies_chf": 38
+    "visites": 3,
+    "top_category": "Soins Hommes",
+    "economies_chf": 275
   },
   "visites": [
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "5 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "etab_name": "Maison B",
+      "category": "Lausanne région",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "28 mai 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
+    },
     {
       "etab_name": "Amiia Clinique",
       "category": "Lausanne région",
@@ -23,9 +41,9 @@
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Lausanne région",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",

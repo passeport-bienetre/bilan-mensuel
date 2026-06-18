@@ -1,23 +1,23 @@
 {
   "name": "Chantal",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 38
+    "economies_chf": 80
   },
   "visites": [
     {
-      "etab_name": "Ipanema Beauté",
+      "etab_name": "INTUITIVE JESS",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "5 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+      "last_visit_fr": "4 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/"
     }
   ],
   "recos": [

@@ -1,32 +1,50 @@
 {
   "name": "Erin",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 6,
     "top_category": "Soins Hommes",
-    "economies_chf": 85
+    "economies_chf": 535
   },
   "visites": [
     {
-      "etab_name": "Blossom Institut",
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "10 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null
+    },
+    {
+      "etab_name": "SUBLIMEYES",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "21 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
+      "last_visit_fr": "8 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     },
     {
-      "etab_name": "Sawatdee Delices",
+      "etab_name": "Sawatdee Temple",
       "category": "Soins Duo",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "20 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+      "last_visit_fr": "8 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "5 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
     }
   ],
   "recos": [

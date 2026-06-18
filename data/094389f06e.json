@@ -1,23 +1,32 @@
 {
   "name": "Sarah",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Future Maman",
-    "economies_chf": 65
+    "economies_chf": 190
   },
   "visites": [
     {
-      "etab_name": "Lausanne Palace & Spa",
+      "etab_name": "Institut Kaori",
+      "category": "Lausanne région",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "8 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
       "category": "Future Maman",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "8 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
+      "last_visit_fr": "5 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ],
   "recos": [

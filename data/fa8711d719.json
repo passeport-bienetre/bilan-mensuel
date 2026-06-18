@@ -1,23 +1,23 @@
 {
   "name": "Vanessa",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Epilation",
-    "economies_chf": 29
+    "economies_chf": 50
   },
   "visites": [
     {
-      "etab_name": "Nail Café",
+      "etab_name": "Espace Beauté Sarah",
       "category": "Epilation",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "2 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
+      "last_visit_fr": "10 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
     }
   ],
   "recos": [

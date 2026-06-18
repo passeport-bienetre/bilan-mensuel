@@ -1,39 +1,39 @@
 {
   "name": "Vanessa",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Duo",
-    "economies_chf": 42
+    "top_category": "Epilation",
+    "economies_chf": 58
   },
   "visites": [
     {
-      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
-      "category": "Soins Duo",
-      "canton": null,
+      "etab_name": "Nail Café",
+      "category": "Epilation",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "15 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
+      "last_visit_fr": "13 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Duo",
-      "etab_name": "Centre de bien-être J&J",
-      "category": "Soins Duo",
-      "canton": null,
-      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
+      "badge": "Encore plus de Epilation",
+      "etab_name": "Bhumi",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
+      "badge": "À deux pas de chez vous",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",

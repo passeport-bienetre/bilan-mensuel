@@ -1,15 +1,24 @@
 {
   "name": "Ariane",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Duo",
-    "economies_chf": 35
+    "economies_chf": 140
   },
   "visites": [
+    {
+      "etab_name": "Sawatdee Temple",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "8 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
     {
       "etab_name": "Sawatdee Delices",
       "category": "Soins Duo",

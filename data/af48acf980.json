@@ -1,15 +1,24 @@
 {
   "name": "Amélie",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 31
+    "economies_chf": 177
   },
   "visites": [
+    {
+      "etab_name": "Institut Guinot",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "30 mai 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
     {
       "etab_name": "Salon Privé Gare",
       "category": "Soins Hommes",

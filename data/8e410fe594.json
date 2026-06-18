@@ -1,23 +1,23 @@
 {
   "name": "Laura",
   "window": {
-    "start": "2 mai 2026",
-    "end": "1 juin 2026"
+    "start": "19 mai 2026",
+    "end": "18 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 48
+    "economies_chf": 70
   },
   "visites": [
     {
-      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "etab_name": "SUBLIMEYES",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "8 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+      "last_visit_fr": "30 mai 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [
