@@ -58,7 +58,7 @@
     }
 
     .stats {
-      display: grid; grid-template-columns: repeat(2, 1fr); gap: 0;
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
       background: #FFFFFF; border: 1px solid var(--bp-divider);
       border-radius: 2px; margin-bottom: 48px; overflow: hidden;
     }
@@ -327,7 +327,12 @@
         <div class="stat">
           <div class="label">Économies</div>
           <div class="figure">${stats.economies_chf || 0}<span class="unit">CHF</span></div>
-          <div class="caption">grâce à votre carte Body Pass</div>
+          <div class="caption">ce mois-ci</div>
+        </div>
+        <div class="stat">
+          <div class="label">Total économisé</div>
+          <div class="figure">${stats.economies_total_chf ?? 0}<span class="unit">CHF</span></div>
+          <div class="caption">depuis le début avec Body Pass</div>
         </div>`;
       app.appendChild(statsEl);
 
