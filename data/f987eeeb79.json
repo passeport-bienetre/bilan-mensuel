@@ -1,13 +1,14 @@
 {
   "name": "Marie-Lise",
   "window": {
-    "start": "19 mai 2026",
-    "end": "18 juin 2026"
+    "start": "20 mai 2026",
+    "end": "19 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 45
+    "economies_chf": 45,
+    "economies_total_chf": 107
   },
   "visites": [
     {

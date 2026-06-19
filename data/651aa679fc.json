@@ -1,13 +1,14 @@
 {
   "name": "Caroline",
   "window": {
-    "start": "19 mai 2026",
-    "end": "18 juin 2026"
+    "start": "20 mai 2026",
+    "end": "19 juin 2026"
   },
   "stats": {
-    "visites": 3,
-    "top_category": "Massage",
-    "economies_chf": 240
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 120,
+    "economies_total_chf": 363
   },
   "visites": [
     {
@@ -27,23 +28,14 @@
       "last_visit_fr": "21 mai 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
-    },
-    {
-      "etab_name": "Skin Solution",
-      "category": "Massage",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "19 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
-      "category": "Massage",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
@@ -52,22 +44,22 @@
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "category": "Soins Hommes",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
       "canton": "Genève",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL BORSARI",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
       "category": "Hôtels",
-      "canton": "Valais",
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+      "canton": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     }
   ]
 }

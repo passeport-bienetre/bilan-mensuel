@@ -1,13 +1,14 @@
 {
   "name": "Suzanne",
   "window": {
-    "start": "19 mai 2026",
-    "end": "18 juin 2026"
+    "start": "20 mai 2026",
+    "end": "19 juin 2026"
   },
   "stats": {
     "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 175
+    "economies_chf": 175,
+    "economies_total_chf": 415
   },
   "visites": [
     {
@@ -53,12 +54,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL BORSARI",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
       "category": "Hôtels",
-      "canton": "Valais",
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+      "canton": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     }
   ]
 }

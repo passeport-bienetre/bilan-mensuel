@@ -1,0 +1,56 @@
+{
+  "name": "Stéphanie",
+  "window": {
+    "start": "20 mai 2026",
+    "end": "19 juin 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Onglerie",
+    "economies_chf": 58,
+    "economies_total_chf": 58
+  },
+  "visites": [
+    {
+      "etab_name": "CS Caro Création Studio",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "18 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Onglerie",
+      "etab_name": "Institut M&Vous",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "category": "Soins Hommes",
+      "canton": "Neuchâtel",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    }
+  ]
+}
