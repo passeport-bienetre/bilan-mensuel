@@ -1,16 +1,25 @@
 {
   "name": "Irena",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Vevey Montreux",
-    "economies_chf": 170,
-    "economies_total_chf": 450
+    "visites": 3,
+    "top_category": "Soins du Visage",
+    "economies_chf": 228,
+    "economies_total_chf": 508
   },
   "visites": [
+    {
+      "etab_name": "Nail Café",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "19 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
     {
       "etab_name": "Vogue La Coiffure",
       "category": "Coiffeur",
@@ -33,13 +42,13 @@
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Vevey Montreux",
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "category": "Vevey Montreux",
+      "badge": "Encore plus de Soins du Visage",
+      "etab_name": "Altitude by Garance",
+      "category": "Soins du Visage",
       "canton": "Vaud",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
     },
     {
       "slot": "same_canton",

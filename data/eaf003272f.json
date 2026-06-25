@@ -1,0 +1,56 @@
+{
+  "name": "Marie",
+  "window": {
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Soins Duo",
+    "economies_chf": 57,
+    "economies_total_chf": 177
+  },
+  "visites": [
+    {
+      "etab_name": "Tempête de Calme",
+      "category": "Soins Duo",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "19 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Soins Duo",
+      "canton": "Vaud",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    }
+  ]
+}

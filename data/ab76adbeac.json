@@ -1,13 +1,13 @@
 {
   "name": "Valentina",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites": 3,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 275,
+    "economies_chf": 200,
     "economies_total_chf": 275
   },
   "visites": [
@@ -28,15 +28,6 @@
       "last_visit_fr": "28 mai 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
-    },
-    {
-      "etab_name": "Amiia Clinique",
-      "category": "Lausanne région",
-      "canton": null,
-      "visit_count": 1,
-      "last_visit_fr": "22 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     }
   ],
   "recos": [

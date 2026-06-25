@@ -1,36 +1,45 @@
 {
   "name": "Barbara",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 80,
-    "economies_total_chf": 80
+    "economies_chf": 195,
+    "economies_total_chf": 275
   },
   "visites": [
     {
-      "etab_name": "Salon Privé Ecublens",
+      "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "22 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+      "last_visit_fr": "20 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "20 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Soins Hommes",
-      "etab_name": "1er Acte Coiffure",
+      "etab_name": "Altitude by Garance",
       "category": "Soins Hommes",
       "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
     },
     {
       "slot": "same_canton",

@@ -1,16 +1,25 @@
 {
   "name": "Soizic",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Lausanne région",
-    "economies_chf": 125,
-    "economies_total_chf": 125
+    "economies_chf": 187,
+    "economies_total_chf": 187
   },
   "visites": [
+    {
+      "etab_name": "Salon Privé Gare",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "19 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
     {
       "etab_name": "JOIA LAUSANNE",
       "category": "Lausanne région",

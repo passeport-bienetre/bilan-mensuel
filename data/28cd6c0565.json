@@ -1,16 +1,25 @@
 {
   "name": "Marie",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Lausanne région",
-    "economies_chf": 62,
-    "economies_total_chf": 187
+    "economies_chf": 127,
+    "economies_total_chf": 252
   },
   "visites": [
+    {
+      "etab_name": "Bhumi",
+      "category": "Soins Bio",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "24 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+    },
     {
       "etab_name": "Naïda Massothérapie",
       "category": "Lausanne région",

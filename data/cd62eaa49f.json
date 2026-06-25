@@ -1,14 +1,14 @@
 {
   "name": "Dora",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Coiffure",
     "economies_chf": 75,
-    "economies_total_chf": 198
+    "economies_total_chf": 203
   },
   "visites": [
     {

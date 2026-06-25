@@ -1,16 +1,25 @@
 {
   "name": "Astrid",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "26 mai 2026",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Future Maman",
-    "economies_chf": 120,
-    "economies_total_chf": 730
+    "economies_chf": 230,
+    "economies_total_chf": 840
   },
   "visites": [
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "category": "Massage",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "19 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
       "category": "Future Maman",
