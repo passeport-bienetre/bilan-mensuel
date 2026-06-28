@@ -5,9 +5,9 @@
     "end": "28 juin 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Future Maman",
-    "economies_chf": 180,
+    "economies_chf": 120,
     "economies_total_chf": 485
   },
   "visites": [
@@ -19,15 +19,6 @@
       "last_visit_fr": "15 juin 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "etab_name": "CJ Coiffure",
-      "category": "Coiffeur",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "29 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/"
     }
   ],
   "recos": [
