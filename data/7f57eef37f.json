@@ -1,16 +1,25 @@
 {
   "name": "Cynthia",
   "window": {
-    "start": "26 mai 2026",
-    "end": "25 juin 2026"
+    "start": "29 mai 2026",
+    "end": "28 juin 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Coiffure",
-    "economies_chf": 80,
-    "economies_total_chf": 720
+    "visites": 2,
+    "top_category": "Onglerie",
+    "economies_chf": 150,
+    "economies_total_chf": 790
   },
   "visites": [
+    {
+      "etab_name": "So Beauty Home",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "25 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
       "category": "Coiffure",
@@ -24,13 +33,13 @@
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffure",
-      "etab_name": "Parallèles Coiffure",
-      "category": "Coiffure",
+      "badge": "Encore plus de Onglerie",
+      "etab_name": "FLEUR D’EPIDERME",
+      "category": "Onglerie",
       "canton": "Genève",
-      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
     },
     {
       "slot": "same_canton",

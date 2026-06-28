@@ -1,14 +1,14 @@
 {
   "name": "Anne",
   "window": {
-    "start": "26 mai 2026",
-    "end": "25 juin 2026"
+    "start": "29 mai 2026",
+    "end": "28 juin 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
     "economies_chf": 50,
-    "economies_total_chf": 380
+    "economies_total_chf": 393
   },
   "visites": [
     {

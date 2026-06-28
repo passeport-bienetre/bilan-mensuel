@@ -1,14 +1,14 @@
 {
   "name": "Carole",
   "window": {
-    "start": "26 mai 2026",
-    "end": "25 juin 2026"
+    "start": "29 mai 2026",
+    "end": "28 juin 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Lausanne région",
-    "economies_chf": 128,
-    "economies_total_chf": 375
+    "economies_chf": 70,
+    "economies_total_chf": 383
   },
   "visites": [
     {
@@ -19,15 +19,6 @@
       "last_visit_fr": "3 juin 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/"
-    },
-    {
-      "etab_name": "Nail Café",
-      "category": "Epilation",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "26 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
     }
   ],
   "recos": [

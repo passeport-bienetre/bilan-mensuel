@@ -1,13 +1,13 @@
 {
   "name": "Cléo",
   "window": {
-    "start": "26 mai 2026",
-    "end": "25 juin 2026"
+    "start": "29 mai 2026",
+    "end": "28 juin 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Future Maman",
-    "economies_chf": 118,
+    "visites": 1,
+    "top_category": "Onglerie",
+    "economies_chf": 58,
     "economies_total_chf": 188
   },
   "visites": [
@@ -19,27 +19,18 @@
       "last_visit_fr": "23 juin 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
-    },
-    {
-      "etab_name": "Serenityblue",
-      "category": "Future Maman",
-      "canton": "Neuchâtel",
-      "visit_count": 1,
-      "last_visit_fr": "27 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "COMME SUR UN NUAGE",
-      "category": "Future Maman",
+      "badge": "Encore plus de Onglerie",
+      "etab_name": "Institut M&Vous",
+      "category": "Onglerie",
       "canton": "Neuchâtel",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/"
     },
     {
       "slot": "same_canton",

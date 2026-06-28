@@ -1,16 +1,25 @@
 {
   "name": "Chiara",
   "window": {
-    "start": "26 mai 2026",
-    "end": "25 juin 2026"
+    "start": "29 mai 2026",
+    "end": "28 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Lausanne région",
-    "economies_chf": 70,
-    "economies_total_chf": 545
+    "economies_chf": 130,
+    "economies_total_chf": 605
   },
   "visites": [
+    {
+      "etab_name": "Nueva Luna Yoga",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "25 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    },
     {
       "etab_name": "Institut Kaori",
       "category": "Lausanne région",

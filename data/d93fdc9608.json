@@ -1,16 +1,25 @@
 {
   "name": "Maritta",
   "window": {
-    "start": "26 mai 2026",
-    "end": "25 juin 2026"
+    "start": "29 mai 2026",
+    "end": "28 juin 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Bio",
-    "economies_chf": 105,
-    "economies_total_chf": 226
+    "economies_chf": 225,
+    "economies_total_chf": 346
   },
   "visites": [
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "25 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+    },
     {
       "etab_name": "Organik Beauty",
       "category": "Soins Bio",
