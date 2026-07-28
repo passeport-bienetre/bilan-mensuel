@@ -1,36 +1,36 @@
 {
   "name": "Audrey",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 130,
-    "economies_total_chf": 130
+    "top_category": "Soins Duo",
+    "economies_chf": 90,
+    "economies_total_chf": 220
   },
   "visites": [
     {
-      "etab_name": "MAISON DU TEMPS",
-      "category": "Future Maman",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "category": "Soins Duo",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "13 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
-      "etab_url_public": null
+      "last_visit_fr": "3 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "category": "Soins Duo",
       "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/"
     },
     {
       "slot": "same_canton",

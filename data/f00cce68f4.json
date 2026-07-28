@@ -1,24 +1,24 @@
 {
   "name": "Sylvia",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 100,
-    "economies_total_chf": 100
+    "economies_chf": 70,
+    "economies_total_chf": 170
   },
   "visites": [
     {
-      "etab_name": "Blossom Institut",
+      "etab_name": "SUBLIMEYES",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "12 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
+      "last_visit_fr": "10 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [

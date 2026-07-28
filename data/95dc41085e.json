@@ -1,24 +1,33 @@
 {
   "name": "Clémentine",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 80,
-    "economies_total_chf": 80
+    "economies_chf": 160,
+    "economies_total_chf": 240
   },
   "visites": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_name": "La Coifferie",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "17 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "etab_name": "Blossom Institut",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "23 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+      "last_visit_fr": "3 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     }
   ],
   "recos": [

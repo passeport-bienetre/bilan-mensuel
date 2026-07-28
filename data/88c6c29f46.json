@@ -1,36 +1,36 @@
 {
   "name": "Elizabeth",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 120,
-    "economies_total_chf": 355
+    "top_category": "Epilation",
+    "economies_chf": 65,
+    "economies_total_chf": 438
   },
   "visites": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "category": "Future Maman",
+      "etab_name": "Nail Café",
+      "category": "Epilation",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "16 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+      "last_visit_fr": "22 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "category": "Future Maman",
+      "badge": "Encore plus de Epilation",
+      "etab_name": "Bhumi",
+      "category": "Epilation",
       "canton": "Vaud",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "same_canton",

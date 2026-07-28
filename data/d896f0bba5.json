@@ -1,46 +1,55 @@
 {
   "name": "Dragana",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Soins Duo",
-    "economies_chf": 85,
-    "economies_total_chf": 493
+    "visites": 2,
+    "top_category": "Massage",
+    "economies_chf": 150,
+    "economies_total_chf": 673
   },
   "visites": [
     {
-      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
-      "category": "Soins Duo",
-      "canton": null,
+      "etab_name": "Guinot Art of Beauty",
+      "category": "Epilation",
+      "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "27 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
+      "last_visit_fr": "23 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guinot-art-of-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
+    },
+    {
+      "etab_name": "Thai Corner",
+      "category": "Massage",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "8 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Duo",
-      "etab_name": "Centre de bien-être J&J",
-      "category": "Soins Duo",
-      "canton": null,
-      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
+      "badge": "Encore plus de Massage",
+      "etab_name": "BEAUTY B",
+      "category": "Massage",
+      "canton": "Genève",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "1er Acte Coiffure",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
       "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "canton": "Genève",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
     },
     {
       "slot": "novelty",

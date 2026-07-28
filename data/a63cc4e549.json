@@ -1,33 +1,24 @@
 {
   "name": "Charline",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 200,
-    "economies_total_chf": 340
+    "economies_chf": 100,
+    "economies_total_chf": 470
   },
   "visites": [
     {
-      "etab_name": "MAISON DU TEMPS",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "16 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
-      "etab_url_public": null
-    },
-    {
-      "etab_name": "SUBLIMEYES",
+      "etab_name": "Blossom Institut",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "8 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+      "last_visit_fr": "8 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     }
   ],
   "recos": [

@@ -1,33 +1,24 @@
 {
   "name": "Marie",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Lausanne région",
-    "economies_chf": 127,
-    "economies_total_chf": 252
+    "economies_chf": 70,
+    "economies_total_chf": 327
   },
   "visites": [
     {
-      "etab_name": "Bhumi",
-      "category": "Soins Bio",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "24 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
-    },
-    {
-      "etab_name": "Naïda Massothérapie",
+      "etab_name": "Maison Perle",
       "category": "Lausanne région",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "10 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+      "last_visit_fr": "8 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/"
     }
   ],
   "recos": [

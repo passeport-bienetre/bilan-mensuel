@@ -1,24 +1,24 @@
 {
   "name": "Christiane",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 45,
-    "economies_total_chf": 425
+    "economies_chf": 80,
+    "economies_total_chf": 520
   },
   "visites": [
     {
-      "etab_name": "Swiss Beauty Studio",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "6 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+      "last_visit_fr": "16 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     }
   ],
   "recos": [

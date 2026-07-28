@@ -1,24 +1,24 @@
 {
   "name": "Nathalie",
   "window": {
-    "start": "29 mai 2026",
-    "end": "28 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 140,
-    "economies_total_chf": 300
+    "economies_chf": 70,
+    "economies_total_chf": 370
   },
   "visites": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
+      "etab_name": "SUBLIMEYES",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "29 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+      "last_visit_fr": "9 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [

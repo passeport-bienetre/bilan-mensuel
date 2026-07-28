@@ -1,33 +1,24 @@
 {
   "name": "Maeva",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 3,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 225,
-    "economies_total_chf": 225
+    "economies_chf": 80,
+    "economies_total_chf": 305
   },
   "visites": [
     {
       "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
       "category": "Soins Hommes",
       "canton": "Genève",
-      "visit_count": 2,
-      "last_visit_fr": "24 juin 2026",
+      "visit_count": 1,
+      "last_visit_fr": "29 juin 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
-    },
-    {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "category": "Soins Duo",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "6 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/"
     }
   ],
   "recos": [

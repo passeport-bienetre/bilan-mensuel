@@ -1,24 +1,24 @@
 {
   "name": "Marina",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Future Maman",
     "economies_chf": 120,
-    "economies_total_chf": 337
+    "economies_total_chf": 465
   },
   "visites": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_name": "Le Mirador Resort & Spa",
       "category": "Future Maman",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "12 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+      "last_visit_fr": "13 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ],
   "recos": [

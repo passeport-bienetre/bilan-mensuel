@@ -1,32 +1,41 @@
 {
   "name": "Helene",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Epilation",
-    "economies_chf": 58,
-    "economies_total_chf": 311
+    "visites": 2,
+    "top_category": "Massage",
+    "economies_chf": 230,
+    "economies_total_chf": 560
   },
   "visites": [
     {
-      "etab_name": "Nail Café",
-      "category": "Epilation",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "category": "Future Maman",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "13 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
+      "last_visit_fr": "20 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "category": "Massage",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "2 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Epilation",
+      "badge": "Encore plus de Massage",
       "etab_name": "Bhumi",
-      "category": "Epilation",
+      "category": "Massage",
       "canton": "Vaud",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",

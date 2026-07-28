@@ -1,33 +1,24 @@
 {
   "name": "Soukayna",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 205,
-    "economies_total_chf": 465
+    "economies_chf": 60,
+    "economies_total_chf": 525
   },
   "visites": [
     {
-      "etab_name": "MAISON DU TEMPS",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "9 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
-      "etab_url_public": null
-    },
-    {
-      "etab_name": "Ipanema Beauté",
+      "etab_name": "Swiss Beauty Studio",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "9 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+      "last_visit_fr": "14 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
     }
   ],
   "recos": [

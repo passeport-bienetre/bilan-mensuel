@@ -1,0 +1,56 @@
+{
+  "name": "Odile",
+  "window": {
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Hôtels",
+    "economies_chf": 233,
+    "economies_total_chf": 333
+  },
+  "visites": [
+    {
+      "etab_name": "HÔTEL ROYAL",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "18 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-royal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Hôtels",
+      "etab_name": "Dent Blanche Resort & Lumen Spa",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": "Le complexe Dent-Blanche Resort à Hérémence, vue Cervin. 69 appartements en résidence hôtelière au pied des pistes des 4 Vallées : l'Alpe brute en version hôtel.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-dent-blanche-resort-lumen-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Chandolin Boutique Hôtel",
+      "category": "Future Maman",
+      "canton": "Valais",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
+    }
+  ]
+}

@@ -1,46 +1,46 @@
 {
   "name": "Elodie",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Hommes",
-    "economies_chf": 140,
-    "economies_total_chf": 140
+    "top_category": "Coiffure",
+    "economies_chf": 80,
+    "economies_total_chf": 220
   },
   "visites": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "category": "Soins Hommes",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "category": "Coiffure",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "18 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+      "last_visit_fr": "1 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Coiffure",
+      "etab_name": "Parallèles Coiffure",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",

@@ -1,46 +1,46 @@
 {
   "name": "Roberta",
   "window": {
-    "start": "20 mai 2026",
-    "end": "19 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Coiffure",
-    "economies_chf": 60,
-    "economies_total_chf": 130
+    "top_category": "Epilation",
+    "economies_chf": 68,
+    "economies_total_chf": 228
   },
   "visites": [
     {
-      "etab_name": "Le Bal des Créateurs",
-      "category": "Coiffure",
+      "etab_name": "SAKURA LAB",
+      "category": "Epilation",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "21 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+      "last_visit_fr": "1 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffure",
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "category": "Coiffure",
-      "canton": "Genève",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Epilation",
       "etab_name": "BEAUTY B",
-      "category": "Soins Hommes",
+      "category": "Epilation",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Blossom Institut",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     },
     {
       "slot": "novelty",

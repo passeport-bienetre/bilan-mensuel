@@ -1,24 +1,33 @@
 {
   "name": "Antoinette",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 125,
-    "economies_total_chf": 275
+    "economies_chf": 200,
+    "economies_total_chf": 470
   },
   "visites": [
     {
-      "etab_name": "Arte Beauty Lutry",
+      "etab_name": "Le Mirador Resort & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "8 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
       "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "9 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+      "last_visit_fr": "1 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
     }
   ],
   "recos": [

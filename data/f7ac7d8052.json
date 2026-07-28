@@ -1,58 +1,40 @@
 {
   "name": "Joanne",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 3,
-    "top_category": "Soins du Visage",
-    "economies_chf": 304,
-    "economies_total_chf": 727
+    "visites": 1,
+    "top_category": "Soins Duo",
+    "economies_chf": 85,
+    "economies_total_chf": 822
   },
   "visites": [
     {
-      "etab_name": "Rituels Beauté",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "12 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/rituels-beaute/"
-    },
-    {
-      "etab_name": "Maison B",
-      "category": "Lausanne région",
+      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
+      "category": "Soins Duo",
       "canton": null,
       "visit_count": 1,
-      "last_visit_fr": "5 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
-    },
-    {
-      "etab_name": "Naïda Massothérapie",
-      "category": "Lausanne région",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "3 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+      "last_visit_fr": "15 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins du Visage",
-      "etab_name": "Altitude by Garance",
-      "category": "Soins du Visage",
-      "canton": "Vaud",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Centre de bien-être J&J",
+      "category": "Soins Duo",
+      "canton": null,
+      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
     },
     {
       "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Une découverte pour vous",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",

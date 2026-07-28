@@ -1,0 +1,65 @@
+{
+  "name": "Daphné",
+  "window": {
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
+  },
+  "stats": {
+    "visites": 2,
+    "top_category": "Soins du Visage",
+    "economies_chf": 180,
+    "economies_total_chf": 390
+  },
+  "visites": [
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "15 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
+    },
+    {
+      "etab_name": "Experimental Chalet",
+      "category": "Massage",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "1 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins du Visage",
+      "etab_name": "Chandolin Boutique Hôtel",
+      "category": "Soins du Visage",
+      "canton": "Valais",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Le Lokal",
+      "category": "Soins Hommes",
+      "canton": "Valais",
+      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
+    }
+  ]
+}

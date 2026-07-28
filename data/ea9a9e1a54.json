@@ -1,45 +1,36 @@
 {
   "name": "Jeromine",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Lausanne région",
-    "economies_chf": 185,
-    "economies_total_chf": 390
+    "economies_chf": 70,
+    "economies_total_chf": 445
   },
   "visites": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
+      "etab_name": "Maison Perle",
+      "category": "Lausanne région",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "13 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
-    },
-    {
-      "etab_name": "Institut Guinot",
-      "category": "Epilation",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "30 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+      "last_visit_fr": "4 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Lausanne région",
-      "etab_name": "Altitude by Garance",
+      "etab_name": "1er Acte Coiffure",
       "category": "Lausanne région",
       "canton": "Vaud",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "slot": "same_canton",

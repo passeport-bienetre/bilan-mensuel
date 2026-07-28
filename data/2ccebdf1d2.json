@@ -1,32 +1,51 @@
 {
   "name": "Olivia",
   "window": {
-    "start": "19 mai 2026",
-    "end": "18 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 4,
     "top_category": "Soins Hommes",
-    "economies_chf": 210
+    "economies_chf": 435,
+    "economies_total_chf": 745
   },
   "visites": [
     {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_name": "FLEUR D’EPIDERME",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "19 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/"
+      "last_visit_fr": "21 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
     },
     {
-      "etab_name": "So Beauty Home",
-      "category": "Soins Hommes",
+      "etab_name": "Wulan Studio",
+      "category": "Coiffure",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "19 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+      "last_visit_fr": "21 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/"
+    },
+    {
+      "etab_name": "BLISS",
+      "category": "Epilation",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "7 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "30 juin 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
     }
   ],
   "recos": [
@@ -53,12 +72,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL BORSARI",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
       "category": "Hôtels",
-      "canton": "Valais",
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+      "canton": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     }
   ]
 }

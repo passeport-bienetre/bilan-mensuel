@@ -1,55 +1,46 @@
 {
   "name": "Karen",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 175,
-    "economies_total_chf": 535
+    "visites": 1,
+    "top_category": "Soins Bio",
+    "economies_chf": 80,
+    "economies_total_chf": 595
   },
   "visites": [
     {
-      "etab_name": "Thaiotop",
-      "category": "Soins Duo",
+      "etab_name": "Le Cabinet de Beauté",
+      "category": "Soins Bio",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "12 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "etab_name": "INTUITIVE JESS",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "3 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+      "last_visit_fr": "1 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Soins Bio",
+      "etab_name": "NUANCES NATURE",
+      "category": "Soins Bio",
+      "canton": "Genève",
+      "blurb": "Ki Nuances Nature à Carouge. Esthéticienne depuis vingt ans et formatrice en cosmétiques bio pendant douze ans, elle propose soins visage, corps et Signature dans un cocon de sérénité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",

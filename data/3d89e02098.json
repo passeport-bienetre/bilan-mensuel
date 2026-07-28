@@ -1,32 +1,32 @@
 {
   "name": "Anouck",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Massage",
-    "economies_chf": 120,
-    "economies_total_chf": 120
+    "top_category": "Soins Hommes",
+    "economies_chf": 80,
+    "economies_total_chf": 200
   },
   "visites": [
     {
-      "etab_name": "Skin Solution",
-      "category": "Massage",
+      "etab_name": "INTUITIVE JESS",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "26 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
+      "last_visit_fr": "16 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
-      "category": "Massage",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
@@ -35,12 +35,12 @@
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "category": "Soins Hommes",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
       "canton": "Genève",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",

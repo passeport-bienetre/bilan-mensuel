@@ -1,0 +1,65 @@
+{
+  "name": "Karin",
+  "window": {
+    "start": "28 juin 2026",
+    "end": "28 juillet 2026"
+  },
+  "stats": {
+    "visites": 2,
+    "top_category": "Soins du Corps",
+    "economies_chf": 148,
+    "economies_total_chf": 233
+  },
+  "visites": [
+    {
+      "etab_name": "Institut M&Vous",
+      "category": "Epilation",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "7 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/"
+    },
+    {
+      "etab_name": "Eveil des Sens",
+      "category": "Soins du Corps",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "2 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eveil-des-sens-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eveil-des-sens-3/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins du Corps",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "category": "Soins du Corps",
+      "canton": "Neuchâtel",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "JOIA NEUCHATEL",
+      "category": "Pilates",
+      "canton": "Neuchâtel",
+      "blurb": "JOIA Wellness & Studio, vue lac sur espace ouvert. Pilates sur Reformer Merrithew, communauté et expérience transformative : la joie en mouvement.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-studio/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    }
+  ]
+}
