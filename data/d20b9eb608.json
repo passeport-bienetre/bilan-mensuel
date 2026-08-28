@@ -1,56 +1,56 @@
 {
   "name": "SOPHIE",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Massage",
-    "economies_chf": 100,
-    "economies_total_chf": 430
+    "top_category": "Soins Duo",
+    "economies_chf": 90,
+    "economies_total_chf": 550
   },
   "visites": [
     {
-      "etab_name": "Thai Corner",
-      "category": "Massage",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "category": "Soins Duo",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "8 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+      "last_visit_fr": "20 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "BEAUTY B",
-      "category": "Massage",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
-    },
-    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

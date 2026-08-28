@@ -1,40 +1,30 @@
 {
   "name": "Anne",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Coiffure",
-    "economies_chf": 75,
-    "economies_total_chf": 165
+    "top_category": "Soins Hommes",
+    "economies_chf": 95,
+    "economies_total_chf": 260
   },
   "visites": [
     {
-      "etab_name": "So Hair",
-      "category": "Coiffure",
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "18 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/"
+      "last_visit_fr": "12 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffure",
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "category": "Coiffure",
-      "canton": "Genève",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -43,14 +33,24 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

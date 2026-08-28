@@ -1,0 +1,65 @@
+{
+  "name": "Lola",
+  "window": {
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
+  },
+  "stats": {
+    "visites": 2,
+    "top_category": "Onglerie",
+    "economies_chf": 148,
+    "economies_total_chf": 238
+  },
+  "visites": [
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "14 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
+    },
+    {
+      "etab_name": "SAKURA LAB",
+      "category": "Epilation",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "31 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Onglerie",
+      "etab_name": "FLEUR D’EPIDERME",
+      "category": "Onglerie",
+      "canton": "Genève",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "BEAUTY B",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+    }
+  ]
+}

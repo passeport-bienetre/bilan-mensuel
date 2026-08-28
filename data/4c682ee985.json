@@ -1,0 +1,56 @@
+{
+  "name": "Delphine",
+  "window": {
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Pilates",
+    "economies_chf": 175,
+    "economies_total_chf": 295
+  },
+  "visites": [
+    {
+      "etab_name": "JOIA NEUCHATEL",
+      "category": "Pilates",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "25 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-studio/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Pilates",
+      "etab_name": "JOIA LAUSANNE",
+      "category": "Pilates",
+      "canton": "Vaud",
+      "blurb": "JOIA Studio au centre de Lausanne. Huit Merrithew Reformers, instructeurs experts et environnement urbain sophistiqué pour un Pilates de précision.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "category": "Soins Hommes",
+      "canton": "Neuchâtel",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+    }
+  ]
+}

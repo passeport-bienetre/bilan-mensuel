@@ -1,0 +1,56 @@
+{
+  "name": "Morgane",
+  "window": {
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Massage",
+    "economies_chf": 100,
+    "economies_total_chf": 200
+  },
+  "visites": [
+    {
+      "etab_name": "Lumen Spa & Wellness",
+      "category": "Massage",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "21 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Massage",
+      "etab_name": "Chandolin Boutique Hôtel",
+      "category": "Massage",
+      "canton": "Valais",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Chanelle and Co.",
+      "category": "Epilation",
+      "canton": "Valais",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+    }
+  ]
+}

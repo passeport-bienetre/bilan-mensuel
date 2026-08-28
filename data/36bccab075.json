@@ -1,36 +1,36 @@
 {
   "name": "Frédérique",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Future Maman",
-    "economies_chf": 65,
-    "economies_total_chf": 135
+    "economies_chf": 60,
+    "economies_total_chf": 200
   },
   "visites": [
     {
-      "etab_name": "COMME SUR UN NUAGE",
+      "etab_name": "Serenityblue",
       "category": "Future Maman",
       "canton": "Neuchâtel",
       "visit_count": 1,
-      "last_visit_fr": "9 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+      "last_visit_fr": "20 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Future Maman",
-      "etab_name": "Serenityblue",
+      "etab_name": "COMME SUR UN NUAGE",
       "category": "Future Maman",
       "canton": "Neuchâtel",
-      "blurb": "Serenityblue, dix ans d'expérience. Deux espaces : un dédié au corps et à la détente, un autre à l'esthétique, pour combiner bien-être et beauté.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/"
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
     },
     {
       "slot": "same_canton",
@@ -45,12 +45,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

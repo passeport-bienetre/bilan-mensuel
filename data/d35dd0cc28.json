@@ -1,0 +1,65 @@
+{
+  "name": "Géraldine",
+  "window": {
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
+  },
+  "stats": {
+    "visites": 2,
+    "top_category": "Soins du Corps",
+    "economies_chf": 130,
+    "economies_total_chf": 130
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Sabaidee",
+      "category": "Soins Hommes",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "19 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/"
+    },
+    {
+      "etab_name": "CS Caro Création Studio",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "visit_count": 1,
+      "last_visit_fr": "13 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins du Corps",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "category": "Soins du Corps",
+      "canton": "Neuchâtel",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "JOIA NEUCHATEL",
+      "category": "Pilates",
+      "canton": "Neuchâtel",
+      "blurb": "JOIA Wellness & Studio, vue lac sur espace ouvert. Pilates sur Reformer Merrithew, communauté et expérience transformative : la joie en mouvement.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-studio/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+    }
+  ]
+}

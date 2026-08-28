@@ -1,56 +1,56 @@
 {
   "name": "Gérard",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Future Maman",
     "economies_chf": 120,
-    "economies_total_chf": 120
+    "economies_total_chf": 240
   },
   "visites": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_name": "Le Grand Bellevue Spa",
       "category": "Future Maman",
-      "canton": "Vaud",
+      "canton": "Berne",
       "visit_count": 1,
-      "last_visit_fr": "9 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+      "last_visit_fr": "27 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Future Maman",
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_name": "Bhumi",
       "category": "Future Maman",
       "canton": "Vaud",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "1er Acte Coiffure",
+      "etab_name": "Centre Sattva",
       "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "canton": "Berne",
+      "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

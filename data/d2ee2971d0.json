@@ -1,40 +1,30 @@
 {
   "name": "Nancy",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Bio",
-    "economies_chf": 60,
-    "economies_total_chf": 60
+    "top_category": "Soins Hommes",
+    "economies_chf": 62,
+    "economies_total_chf": 122
   },
   "visites": [
     {
-      "etab_name": "Institut Biotiful",
-      "category": "Soins Bio",
+      "etab_name": "Simple Passion",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "10 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+      "last_visit_fr": "20 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/simple-passion.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/simple-passion/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Bio",
-      "etab_name": "Bhumi",
-      "category": "Soins Bio",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -43,14 +33,24 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Bhumi",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

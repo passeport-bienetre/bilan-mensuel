@@ -1,40 +1,39 @@
 {
   "name": "Jenna",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 130,
-    "economies_total_chf": 415
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 165,
+    "economies_total_chf": 580
   },
   "visites": [
     {
-      "etab_name": "MAISON DU TEMPS",
-      "category": "Future Maman",
+      "etab_name": "Le Beausquet Genève",
+      "category": "Soins du Corps",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "23 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
+      "last_visit_fr": "21 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "etab_name": "Mon Bonheur Ayurvédique",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "8 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mon-bonheur-ayurvedique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -43,14 +42,24 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

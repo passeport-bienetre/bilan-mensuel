@@ -1,50 +1,32 @@
 {
   "name": "Sabrina",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 3,
-    "top_category": "Lausanne région",
-    "economies_chf": 290,
-    "economies_total_chf": 520
+    "visites": 1,
+    "top_category": "Soins Hommes",
+    "economies_chf": 80,
+    "economies_total_chf": 600
   },
   "visites": [
     {
-      "etab_name": "Institut Beauté Bertmans",
-      "category": "Epilation",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "7 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
-    },
-    {
-      "etab_name": "Arte Beauty EPFL",
+      "etab_name": "Salon Privé Gare",
       "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "6 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    },
-    {
-      "etab_name": "Maison B",
-      "category": "Lausanne région",
-      "canton": null,
-      "visit_count": 1,
-      "last_visit_fr": "1 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
+      "last_visit_fr": "29 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Lausanne région",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
@@ -53,22 +35,22 @@
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "category": "Massage",
+      "etab_name": "Bhumi",
+      "category": "Future Maman",
       "canton": "Vaud",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

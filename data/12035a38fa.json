@@ -1,65 +1,65 @@
 {
   "name": "Christel",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 2,
-    "top_category": "Soins Bio",
-    "economies_chf": 140,
-    "economies_total_chf": 280
+    "top_category": "Soins Hommes",
+    "economies_chf": 210,
+    "economies_total_chf": 490
   },
   "visites": [
     {
-      "etab_name": "So Beauty Home",
+      "etab_name": "Hôtel Schweizerhof Bern & Spa",
       "category": "Soins Hommes",
-      "canton": "Genève",
+      "canton": "Berne",
       "visit_count": 1,
-      "last_visit_fr": "23 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+      "last_visit_fr": "17 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
     },
     {
-      "etab_name": "INSTITUT NATURALPE",
-      "category": "Soins Bio",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "category": "Soins Hommes",
       "canton": "Valais",
       "visit_count": 1,
-      "last_visit_fr": "8 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/"
+      "last_visit_fr": "12 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Bio",
-      "etab_name": "Bhumi",
-      "category": "Soins Bio",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "Chandolin Boutique Hôtel",
-      "category": "Future Maman",
+      "category": "Soins Hommes",
       "canton": "Valais",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     },
     {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Chanelle and Co.",
+      "category": "Epilation",
+      "canton": "Valais",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "MAISON DU TEMPS",
-      "category": "Future Maman",
-      "canton": "Genève",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": null,
       "blurb": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

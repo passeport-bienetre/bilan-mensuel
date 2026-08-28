@@ -1,56 +1,65 @@
 {
   "name": "Ritsuko",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 120,
-    "economies_total_chf": 190
+    "visites": 2,
+    "top_category": "Soins Duo",
+    "economies_chf": 165,
+    "economies_total_chf": 355
   },
   "visites": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "category": "Future Maman",
+      "etab_name": "Signature Coiffure",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "2 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+      "last_visit_fr": "26 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "category": "Soins Duo",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "19 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "category": "Future Maman",
-      "canton": "Vaud",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "ERINGER INSTITUT",
+      "category": "Soins Duo",
+      "canton": "Valais",
+      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "etab_name": "Chandolin Boutique Hôtel",
+      "category": "Future Maman",
+      "canton": "Valais",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

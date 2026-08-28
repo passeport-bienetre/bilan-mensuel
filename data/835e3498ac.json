@@ -1,56 +1,56 @@
 {
   "name": "Gaëlle",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 60,
-    "economies_total_chf": 60
+    "top_category": "Coiffure",
+    "economies_chf": 80,
+    "economies_total_chf": 140
   },
   "visites": [
     {
-      "etab_name": "Serenityblue",
-      "category": "Future Maman",
-      "canton": "Neuchâtel",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "category": "Coiffure",
+      "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "10 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/"
+      "last_visit_fr": "6 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "COMME SUR UN NUAGE",
-      "category": "Future Maman",
-      "canton": "Neuchâtel",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+      "badge": "Encore plus de Coiffure",
+      "etab_name": "Parallèles Coiffure",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
-      "canton": "Neuchâtel",
-      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+      "canton": "Genève",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

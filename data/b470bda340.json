@@ -1,56 +1,65 @@
 {
   "name": "Thierry",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Coiffeur",
-    "economies_chf": 58,
-    "economies_total_chf": 533
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 160,
+    "economies_total_chf": 710
   },
   "visites": [
     {
-      "etab_name": "Tête à Clak",
-      "category": "Coiffeur",
-      "canton": null,
+      "etab_name": "Luna aesthetic",
+      "category": "Massage",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "24 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+      "last_visit_fr": "19 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "category": "Soins Hommes",
+      "canton": "Berne",
+      "visit_count": 1,
+      "last_visit_fr": "30 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffeur",
-      "etab_name": "1er Acte Coiffure",
-      "category": "Coiffeur",
-      "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "badge": "Encore plus de Soins Hommes",
+      "etab_name": "Centre Sattva",
+      "category": "Soins Hommes",
+      "canton": "Berne",
+      "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "ALEX COIFFURE SARL",
-      "category": "Coiffeur",
-      "canton": "Fribourg",
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Maison de la Santé Rossfeld",
+      "category": "Massage",
+      "canton": "Berne",
+      "blurb": "L'institut de beauté Pfetzer à Berne, surplombant l'Aare. Soins du visage et anti-âge sophistiqués, larges formations : la spécialiste reconnue des problèmes de peau.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-de-la-sante-rossfeld.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-de-la-sante-rossfeld/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

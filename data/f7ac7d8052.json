@@ -1,40 +1,40 @@
 {
   "name": "Joanne",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Duo",
+    "top_category": "Massage",
     "economies_chf": 85,
-    "economies_total_chf": 822
+    "economies_total_chf": 907
   },
   "visites": [
     {
-      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
-      "category": "Soins Duo",
-      "canton": null,
+      "etab_name": "KASA AMO",
+      "category": "Massage",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "15 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
+      "last_visit_fr": "3 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Duo",
-      "etab_name": "Centre de bien-être J&J",
-      "category": "Soins Duo",
-      "canton": null,
-      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
+      "badge": "Encore plus de Massage",
+      "etab_name": "Bhumi",
+      "category": "Massage",
+      "canton": "Vaud",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
+      "badge": "À deux pas de chez vous",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -45,12 +45,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

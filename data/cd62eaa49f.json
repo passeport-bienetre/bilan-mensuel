@@ -1,40 +1,48 @@
 {
   "name": "Dora",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Coiffure",
-    "economies_chf": 75,
-    "economies_total_chf": 343
+    "visites": 3,
+    "top_category": "Soins Hommes",
+    "economies_chf": 220,
+    "economies_total_chf": 563
   },
   "visites": [
     {
-      "etab_name": "So Hair",
-      "category": "Coiffure",
+      "etab_name": "19th AVENUE - Versonnex",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "8 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/"
+      "last_visit_fr": "25 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/"
+    },
+    {
+      "etab_name": "So Beauty Home",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "20 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "11 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffure",
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "category": "Coiffure",
-      "canton": "Genève",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -43,14 +51,24 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

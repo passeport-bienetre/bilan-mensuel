@@ -1,40 +1,40 @@
 {
   "name": "Rosanne",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 120,
-    "economies_total_chf": 450
+    "top_category": "Soins Duo",
+    "economies_chf": 85,
+    "economies_total_chf": 535
   },
   "visites": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "category": "Future Maman",
-      "canton": "Vaud",
+      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
+      "category": "Soins Duo",
+      "canton": null,
       "visit_count": 1,
-      "last_visit_fr": "10 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+      "last_visit_fr": "23 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "category": "Future Maman",
-      "canton": "Vaud",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Centre de bien-être J&J",
+      "category": "Soins Duo",
+      "canton": null,
+      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
     },
     {
       "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Une découverte pour vous",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -45,12 +45,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

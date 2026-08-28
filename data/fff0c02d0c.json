@@ -1,56 +1,56 @@
 {
   "name": "Isabelle",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Massage",
-    "economies_chf": 95,
-    "economies_total_chf": 277
+    "top_category": "Soins Duo",
+    "economies_chf": 100,
+    "economies_total_chf": 377
   },
   "visites": [
     {
-      "etab_name": "Saai Nam Massage - Manor",
-      "category": "Massage",
-      "canton": "Genève",
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "category": "Soins Duo",
+      "canton": "Valais",
       "visit_count": 1,
-      "last_visit_fr": "30 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
+      "last_visit_fr": "6 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
-      "etab_name": "BEAUTY B",
-      "category": "Massage",
-      "canton": "Genève",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "ERINGER INSTITUT",
+      "category": "Soins Duo",
+      "canton": "Valais",
+      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
+      "etab_name": "Chandolin Boutique Hôtel",
+      "category": "Future Maman",
+      "canton": "Valais",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

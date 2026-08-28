@@ -1,33 +1,24 @@
 {
   "name": "Angélique",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 225,
-    "economies_total_chf": 225
+    "economies_chf": 110,
+    "economies_total_chf": 335
   },
   "visites": [
     {
-      "etab_name": "Arte Beauty EPFL",
+      "etab_name": "Arte Beauty Lutry",
       "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "20 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    },
-    {
-      "etab_name": "Institut Guinot",
-      "category": "Epilation",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "20 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+      "last_visit_fr": "29 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     }
   ],
   "recos": [
@@ -45,7 +36,7 @@
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
       "etab_name": "Bhumi",
-      "category": "Soins Bio",
+      "category": "Future Maman",
       "canton": "Vaud",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
@@ -54,12 +45,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

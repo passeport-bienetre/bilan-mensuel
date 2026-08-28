@@ -1,56 +1,56 @@
 {
   "name": "Aurélie",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Bio",
-    "economies_chf": 65,
-    "economies_total_chf": 155
+    "top_category": "Soins Duo",
+    "economies_chf": 80,
+    "economies_total_chf": 235
   },
   "visites": [
     {
-      "etab_name": "NUANCES NATURE",
-      "category": "Soins Bio",
-      "canton": "Genève",
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "category": "Soins Duo",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "3 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/"
+      "last_visit_fr": "22 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Bio",
-      "etab_name": "Le Cabinet de Beauté",
-      "category": "Soins Bio",
-      "canton": "Genève",
-      "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Soins Duo",
+      "canton": "Vaud",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "BEAUTY B",
+      "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
-      "canton": "Genève",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+      "canton": "Vaud",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

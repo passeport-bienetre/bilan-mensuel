@@ -1,56 +1,56 @@
 {
   "name": "Diane",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Fitness",
-    "economies_chf": 200,
-    "economies_total_chf": 348
+    "top_category": "Soins Hommes",
+    "economies_chf": 100,
+    "economies_total_chf": 448
   },
   "visites": [
     {
-      "etab_name": "LES FITNESS HARMONY",
-      "category": "Fitness",
-      "canton": " ",
+      "etab_name": "Blossom Institut",
+      "category": "Soins Hommes",
+      "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "29 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": null
+      "last_visit_fr": "12 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Fitness",
-      "etab_name": "FITNESS HARMONY - BLANDONNET",
-      "category": "Fitness",
+      "badge": "Encore plus de Soins Hommes",
+      "etab_name": "BEAUTY B",
+      "category": "Soins Hommes",
       "canton": "Genève",
-      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/"
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

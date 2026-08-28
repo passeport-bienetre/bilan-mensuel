@@ -1,39 +1,40 @@
 {
   "name": "Chris",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 220,
-    "economies_total_chf": 405
+    "visites": 1,
+    "top_category": "Soins Duo",
+    "economies_chf": 80,
+    "economies_total_chf": 485
   },
   "visites": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "category": "Soins Hommes",
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "category": "Soins Duo",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "20 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    },
-    {
-      "etab_name": "Arte Beauty EHL",
-      "category": "Soins Hommes",
-      "canton": null,
-      "visit_count": 1,
-      "last_visit_fr": "29 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+      "last_visit_fr": "11 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Soins Duo",
+      "canton": "Vaud",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -42,24 +43,14 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
-      "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "ALEX COIFFURE SARL",
-      "category": "Coiffeur",
-      "canton": "Fribourg",
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
-    },
-    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

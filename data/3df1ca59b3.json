@@ -1,65 +1,74 @@
 {
   "name": "Félicia",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 150,
-    "economies_total_chf": 270
+    "visites": 3,
+    "top_category": "Massage",
+    "economies_chf": 220,
+    "economies_total_chf": 485
   },
   "visites": [
     {
-      "etab_name": "ALEX COIFFURE SARL",
+      "etab_name": "Les Sources du Chéry",
+      "category": "Massage",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "22 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-du-chery.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
+    },
+    {
+      "etab_name": "Luna aesthetic",
+      "category": "Massage",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "20 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "etab_name": "Fjacco Coiffure",
       "category": "Coiffeur",
       "canton": "Fribourg",
       "visit_count": 1,
-      "last_visit_fr": "22 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
-    },
-    {
-      "etab_name": "Les Cliniques Matignon",
-      "category": "Soins Hommes",
-      "canton": " ",
-      "visit_count": 1,
-      "last_visit_fr": "20 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
-      "etab_url_public": null
+      "last_visit_fr": "29 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fjacco-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fjacco-coiffure/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
-      "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "badge": "Encore plus de Massage",
+      "etab_name": "EssenCiel Institut",
+      "category": "Massage",
+      "canton": "Fribourg",
+      "blurb": "L'institut EssenCiel travaille autour des huiles essentielles et de la gamme Yon-Ka. Soins ressourçants pour un moment rien qu'à soi.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "Atmosp'hair",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/"
+      "badge": "À deux pas de chez vous",
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

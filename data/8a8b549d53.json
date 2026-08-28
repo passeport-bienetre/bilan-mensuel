@@ -1,24 +1,24 @@
 {
   "name": "Stéphanie",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Massage",
-    "economies_chf": 120,
-    "economies_total_chf": 410
+    "economies_chf": 80,
+    "economies_total_chf": 540
   },
   "visites": [
     {
-      "etab_name": "Skin Solution",
+      "etab_name": "Thai Corner",
       "category": "Massage",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "24 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
+      "last_visit_fr": "27 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/"
     }
   ],
   "recos": [
@@ -45,12 +45,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

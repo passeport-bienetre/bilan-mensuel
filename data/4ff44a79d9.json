@@ -1,33 +1,42 @@
 {
   "name": "Leeilah",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 3,
     "top_category": "Soins Hommes",
-    "economies_chf": 215,
-    "economies_total_chf": 892
+    "economies_chf": 265,
+    "economies_total_chf": 1157
   },
   "visites": [
     {
-      "etab_name": "Ipanema Beauté",
+      "etab_name": "Studio Beauté",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "6 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+      "last_visit_fr": "22 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/"
     },
     {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "category": "Soins Hommes",
+      "etab_name": "GLOW IN GENEVA",
+      "category": "Soins du Visage",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "4 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/"
+      "last_visit_fr": "15 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "31 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
     }
   ],
   "recos": [
@@ -54,12 +63,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

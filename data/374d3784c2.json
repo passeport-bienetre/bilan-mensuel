@@ -1,0 +1,56 @@
+{
+  "name": "Dina",
+  "window": {
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Coiffeur",
+    "economies_chf": 60,
+    "economies_total_chf": 380
+  },
+  "visites": [
+    {
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "visit_count": 1,
+      "last_visit_fr": "29 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Coiffeur",
+      "etab_name": "Fjacco Coiffure",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fjacco-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fjacco-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "EssenCiel Institut",
+      "category": "Epilation",
+      "canton": "Fribourg",
+      "blurb": "L'institut EssenCiel travaille autour des huiles essentielles et de la gamme Yon-Ka. Soins ressourçants pour un moment rien qu'à soi.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+    }
+  ]
+}

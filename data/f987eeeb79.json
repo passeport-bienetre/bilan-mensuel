@@ -1,32 +1,32 @@
 {
   "name": "Marie-Lise",
   "window": {
-    "start": "30 mai 2026",
-    "end": "29 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Hommes",
-    "economies_chf": 45,
-    "economies_total_chf": 107
+    "top_category": "Future Maman",
+    "economies_chf": 100,
+    "economies_total_chf": 225
   },
   "visites": [
     {
-      "etab_name": "LES BAINS PUBLICS",
-      "category": "Soins Hommes",
+      "etab_name": "LECRANS HOTEL & SPA",
+      "category": "Future Maman",
       "canton": "Valais",
       "visit_count": 1,
-      "last_visit_fr": "10 juin 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+      "last_visit_fr": "30 juillet 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Future Maman",
       "etab_name": "Chandolin Boutique Hôtel",
-      "category": "Soins Hommes",
+      "category": "Future Maman",
       "canton": "Valais",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
@@ -45,12 +45,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL BORSARI",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": "Valais",
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

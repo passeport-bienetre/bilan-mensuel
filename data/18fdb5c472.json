@@ -1,36 +1,45 @@
 {
   "name": "cindy",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Soins Bio",
-    "economies_chf": 65,
-    "economies_total_chf": 290
+    "visites": 2,
+    "top_category": "Future Maman",
+    "economies_chf": 250,
+    "economies_total_chf": 540
   },
   "visites": [
     {
-      "etab_name": "NUANCES NATURE",
-      "category": "Soins Bio",
+      "etab_name": "Skin Solution",
+      "category": "Massage",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "11 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/"
+      "last_visit_fr": "21 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "14 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Bio",
-      "etab_name": "Le Cabinet de Beauté",
-      "category": "Soins Bio",
+      "badge": "Encore plus de Future Maman",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
       "canton": "Genève",
-      "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "same_canton",
@@ -45,12 +54,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

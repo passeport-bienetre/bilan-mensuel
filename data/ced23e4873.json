@@ -1,35 +1,54 @@
 {
   "name": "Daniela",
   "window": {
-    "start": "19 mai 2026",
-    "end": "18 juin 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Coiffure",
-    "economies_chf": 60
+    "visites": 4,
+    "top_category": "Soins Duo",
+    "economies_chf": 240,
+    "economies_total_chf": 555
   },
   "visites": [
     {
-      "etab_name": "Le Bal des Créateurs",
-      "category": "Coiffure",
+      "etab_name": "Sawatdee Delices",
+      "category": "Soins Duo",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "20 mai 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+      "last_visit_fr": "17 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "17 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "category": "Soins Duo",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "5 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffure",
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "category": "Coiffure",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "category": "Soins Duo",
       "canton": "Genève",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "slot": "same_canton",
@@ -44,12 +63,12 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL BORSARI",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": "Valais",
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+      "canton": null,
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

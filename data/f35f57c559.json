@@ -1,40 +1,39 @@
 {
   "name": "Céline",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 juillet 2026",
+    "end": "28 août 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Massage",
-    "economies_chf": 160,
-    "economies_total_chf": 160
+    "visites": 2,
+    "top_category": "Soins Hommes",
+    "economies_chf": 155,
+    "economies_total_chf": 315
   },
   "visites": [
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "category": "Massage",
-      "canton": "Vaud",
+      "etab_name": "Le Lokal",
+      "category": "Soins Hommes",
+      "canton": "Valais",
       "visit_count": 1,
-      "last_visit_fr": "25 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+      "last_visit_fr": "22 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/"
+    },
+    {
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "category": "Future Maman",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "7 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
-      "etab_name": "Bhumi",
-      "category": "Massage",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -43,14 +42,24 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
+      "slot": "same_canton",
+      "badge": "Une découverte pour vous",
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    },
+    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "blurb": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }
