@@ -5,9 +5,9 @@
     "end": "28 août 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 220,
+    "visites": 1,
+    "top_category": "Coiffure",
+    "economies_chf": 80,
     "economies_total_chf": 220
   },
   "visites": [
@@ -19,21 +19,22 @@
       "last_visit_fr": "31 juillet 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
-    },
-    {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "29 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Coiffure",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -42,22 +43,12 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
-    },
-    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": null,
-      "blurb": null,
+      "canton": "Valais",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }

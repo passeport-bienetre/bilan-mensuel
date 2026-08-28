@@ -5,9 +5,9 @@
     "end": "28 août 2026"
   },
   "stats": {
-    "visites": 3,
-    "top_category": "Future Maman",
-    "economies_chf": 215,
+    "visites": 2,
+    "top_category": "Massage",
+    "economies_chf": 125,
     "economies_total_chf": 475
   },
   "visites": [
@@ -28,27 +28,18 @@
       "last_visit_fr": "22 août 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/o-soi.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/o-soi/"
-    },
-    {
-      "etab_name": "Chalet-Hôtel la Marmotte",
-      "category": "Future Maman",
-      "canton": null,
-      "visit_count": 1,
-      "last_visit_fr": "29 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "Bhumi",
-      "category": "Future Maman",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+      "badge": "Encore plus de Massage",
+      "etab_name": "BEAUTY B",
+      "category": "Massage",
+      "canton": "Genève",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
@@ -65,8 +56,8 @@
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": null,
-      "blurb": null,
+      "canton": "Valais",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }

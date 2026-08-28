@@ -5,9 +5,9 @@
     "end": "28 août 2026"
   },
   "stats": {
-    "visites": 3,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 265,
+    "economies_chf": 200,
     "economies_total_chf": 598
   },
   "visites": [
@@ -28,15 +28,6 @@
       "last_visit_fr": "6 août 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/"
-    },
-    {
-      "etab_name": "BLISS",
-      "category": "Epilation",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "29 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/"
     }
   ],
   "recos": [
@@ -65,8 +56,8 @@
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": null,
-      "blurb": null,
+      "canton": "Valais",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }

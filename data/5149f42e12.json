@@ -5,9 +5,9 @@
     "end": "28 août 2026"
   },
   "stats": {
-    "visites": 3,
-    "top_category": "Soins Hommes",
-    "economies_chf": 250,
+    "visites": 2,
+    "top_category": "Soins Duo",
+    "economies_chf": 150,
     "economies_total_chf": 780
   },
   "visites": [
@@ -28,21 +28,22 @@
       "last_visit_fr": "17 août 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
-    },
-    {
-      "etab_name": "Blossom Institut",
-      "category": "Soins Hommes",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "29 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -51,22 +52,12 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
-    },
-    {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": null,
-      "blurb": null,
+      "canton": "Valais",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
