@@ -1,8 +1,8 @@
 {
   "name": "Christiane",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
     "visites": 1,
@@ -28,6 +28,7 @@
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
+      "night_only": false,
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
@@ -38,6 +39,7 @@
       "etab_name": "Corps Sains",
       "category": "Future Maman",
       "canton": "Genève",
+      "night_only": false,
       "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
@@ -48,6 +50,7 @@
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": "Valais",
+      "night_only": true,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"

@@ -1,8 +1,8 @@
 {
   "name": "Christine",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
     "visites": 2,
@@ -37,6 +37,7 @@
       "etab_name": "Centre de bien-être J&J",
       "category": "Soins Duo",
       "canton": null,
+      "night_only": false,
       "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
@@ -47,6 +48,7 @@
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
+      "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
@@ -57,6 +59,7 @@
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": "Valais",
+      "night_only": true,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"

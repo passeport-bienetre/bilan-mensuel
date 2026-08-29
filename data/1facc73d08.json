@@ -1,33 +1,34 @@
 {
   "name": "Elisabeth",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins du Visage",
-    "economies_chf": 80,
-    "economies_total_chf": 398
+    "top_category": "Soins Hommes",
+    "economies_chf": 70,
+    "economies_total_chf": 468
   },
   "visites": [
     {
-      "etab_name": "GLOW IN GENEVA",
-      "category": "Soins du Visage",
+      "etab_name": "SUBLIMEYES",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "29 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+      "last_visit_fr": "28 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins du Visage",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "BEAUTY B",
-      "category": "Soins du Visage",
+      "category": "Soins Hommes",
       "canton": "Genève",
+      "night_only": false,
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
@@ -38,6 +39,7 @@
       "etab_name": "Corps Sains",
       "category": "Future Maman",
       "canton": "Genève",
+      "night_only": false,
       "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
@@ -47,8 +49,9 @@
       "badge": "Nouveauté du réseau",
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": null,
-      "blurb": null,
+      "canton": "Valais",
+      "night_only": true,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }

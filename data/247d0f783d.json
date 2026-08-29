@@ -1,0 +1,59 @@
+{
+  "name": "Gaëlle",
+  "window": {
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Soins Duo",
+    "economies_chf": 80,
+    "economies_total_chf": 145
+  },
+  "visites": [
+    {
+      "etab_name": "Thaiotop",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "28 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "night_only": false,
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "BEAUTY B",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "night_only": false,
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "night_only": true,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+    }
+  ]
+}

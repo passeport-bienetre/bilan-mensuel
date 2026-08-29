@@ -1,8 +1,8 @@
 {
   "name": "Valentine",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
     "visites": 1,
@@ -28,6 +28,7 @@
       "etab_name": "Centre Sattva",
       "category": "Soins Hommes",
       "canton": "Berne",
+      "night_only": false,
       "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/"
@@ -38,6 +39,7 @@
       "etab_name": "Maison de la Santé Rossfeld",
       "category": "Massage",
       "canton": "Berne",
+      "night_only": false,
       "blurb": "L'institut de beauté Pfetzer à Berne, surplombant l'Aare. Soins du visage et anti-âge sophistiqués, larges formations : la spécialiste reconnue des problèmes de peau.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-de-la-sante-rossfeld.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-de-la-sante-rossfeld/"
@@ -48,6 +50,7 @@
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": "Valais",
+      "night_only": true,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"

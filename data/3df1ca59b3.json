@@ -1,16 +1,25 @@
 {
   "name": "Félicia",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 3,
     "top_category": "Massage",
-    "economies_chf": 155,
-    "economies_total_chf": 485
+    "economies_chf": 245,
+    "economies_total_chf": 575
   },
   "visites": [
+    {
+      "etab_name": "Chalet-Hôtel la Marmotte",
+      "category": "Future Maman",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "28 août 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
+    },
     {
       "etab_name": "Les Sources du Chéry",
       "category": "Massage",
@@ -34,19 +43,21 @@
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Massage",
-      "etab_name": "Bhumi",
+      "etab_name": "BEAUTY B",
       "category": "Massage",
-      "canton": "Vaud",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+      "canton": "Genève",
+      "night_only": false,
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "Une découverte pour vous",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
+      "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
@@ -57,6 +68,7 @@
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": "Valais",
+      "night_only": true,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"

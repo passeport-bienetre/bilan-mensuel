@@ -1,8 +1,8 @@
 {
   "name": "Veronique",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
     "visites": 1,
@@ -28,6 +28,7 @@
       "etab_name": "COMME SUR UN NUAGE",
       "category": "Future Maman",
       "canton": "Neuchâtel",
+      "night_only": false,
       "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
@@ -38,6 +39,7 @@
       "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
       "category": "Soins Hommes",
       "canton": "Neuchâtel",
+      "night_only": false,
       "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
@@ -48,6 +50,7 @@
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": "Valais",
+      "night_only": true,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"

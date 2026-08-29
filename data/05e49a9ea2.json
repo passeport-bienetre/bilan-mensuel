@@ -1,8 +1,8 @@
 {
   "name": "Madison",
   "window": {
-    "start": "29 juillet 2026",
-    "end": "28 août 2026"
+    "start": "30 juillet 2026",
+    "end": "29 août 2026"
   },
   "stats": {
     "visites": 1,
@@ -13,7 +13,7 @@
   "visites": [
     {
       "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "category": "Soins Hommes",
+      "category": "Future Maman",
       "canton": "Valais",
       "visit_count": 1,
       "last_visit_fr": "23 août 2026",
@@ -28,6 +28,7 @@
       "etab_name": "Chandolin Boutique Hôtel",
       "category": "Soins Hommes",
       "canton": "Valais",
+      "night_only": false,
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
@@ -38,6 +39,7 @@
       "etab_name": "Chanelle and Co.",
       "category": "Epilation",
       "canton": "Valais",
+      "night_only": false,
       "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
@@ -48,6 +50,7 @@
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
       "canton": "Valais",
+      "night_only": true,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
