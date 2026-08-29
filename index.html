@@ -185,6 +185,14 @@
       border-radius: 2px; transition: all 150ms ease;
     }
     .reco .cta:hover { background: var(--bp-burgundy); color: #FFFFFF; }
+    .reco .night-note {
+      display: inline-block; align-self: flex-start;
+      margin: 0 0 16px 0; padding-bottom: 2px;
+      font-size: 12px; font-weight: 600; letter-spacing: 0.04em;
+      color: var(--bp-burgundy); text-decoration: none;
+      border-bottom: 1px solid var(--bp-burgundy);
+    }
+    .reco .night-note:hover { opacity: 0.72; }
 
     .footer {
       margin-top: 96px; padding-top: 56px;
@@ -390,6 +398,15 @@
         if (r.blurb) blurbEl.textContent = r.blurb; else blurbEl.remove();
         const cta = node.querySelector(".cta");
         if (r.etab_url_public) cta.href = r.etab_url_public; else cta.style.display = "none";
+        if (r.night_only) {
+          const nightNote = document.createElement("a");
+          nightNote.className = "night-note";
+          nightNote.href = "https://www.bodypass.ch/commande/";
+          nightNote.target = "_blank";
+          nightNote.rel = "noopener";
+          nightNote.textContent = "Uniquement avec la Body Pass +Night →";
+          node.querySelector(".body").insertBefore(nightNote, cta);
+        }
         recGrid.appendChild(node);
       });
       app.appendChild(recGrid);
