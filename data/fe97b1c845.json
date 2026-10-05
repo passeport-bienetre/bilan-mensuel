@@ -1,33 +1,42 @@
 {
   "name": "Jennifer",
   "window": {
-    "start": "28 juin 2026",
-    "end": "28 juillet 2026"
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 3,
     "top_category": "Soins Hommes",
-    "economies_chf": 211,
-    "economies_total_chf": 356
+    "economies_chf": 345,
+    "economies_total_chf": 701
   },
   "visites": [
     {
-      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
-      "category": "Future Maman",
-      "canton": null,
-      "visit_count": 1,
-      "last_visit_fr": "18 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
-    },
-    {
-      "etab_name": "RUBIS SPA",
-      "category": "Soins Duo",
+      "etab_name": "Institut Guinot",
+      "category": "Epilation",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "11 juillet 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/"
+      "last_visit_fr": "25 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "etab_name": "Maison B",
+      "category": "Lausanne région",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "3 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "2 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     }
   ],
   "recos": [
@@ -37,6 +46,7 @@
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
+      "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
@@ -45,8 +55,9 @@
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
       "etab_name": "Bhumi",
-      "category": "Soins Bio",
+      "category": "Future Maman",
       "canton": "Vaud",
+      "night_only": false,
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
@@ -54,12 +65,13 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "category": "Hôtels",
-      "canton": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "canton": "Vaud",
+      "night_only": true,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

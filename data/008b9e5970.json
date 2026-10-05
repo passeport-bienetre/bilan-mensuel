@@ -1,48 +1,57 @@
 {
   "name": "Heloisa",
   "window": {
-    "start": "30 juillet 2026",
-    "end": "29 août 2026"
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Future Maman",
-    "economies_chf": 120,
-    "economies_total_chf": 775
+    "visites": 2,
+    "top_category": "Hôtels",
+    "economies_chf": 440,
+    "economies_total_chf": 1215
   },
   "visites": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "category": "Future Maman",
+      "etab_name": "Organik Beauty",
+      "category": "Soins Bio",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "6 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+      "last_visit_fr": "26 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "category": "Hôtels",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "13 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Future Maman",
-      "etab_name": "Bhumi",
-      "category": "Future Maman",
-      "canton": "Vaud",
-      "night_only": false,
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
+      "badge": "On pense que vous allez l'adorer",
       "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
+      "category": "Hôtels",
       "canton": "Vaud",
       "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Atmosp'hair",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "night_only": false,
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/"
     },
     {
       "slot": "novelty",

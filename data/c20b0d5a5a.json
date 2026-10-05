@@ -1,48 +1,48 @@
 {
   "name": "Marine",
   "window": {
-    "start": "30 juillet 2026",
-    "end": "29 août 2026"
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Massage",
-    "economies_chf": 95,
-    "economies_total_chf": 425
+    "top_category": "Lausanne région",
+    "economies_chf": 62,
+    "economies_total_chf": 487
   },
   "visites": [
     {
-      "etab_name": "Saai Nam Massage - Manor",
-      "category": "Massage",
-      "canton": "Genève",
+      "etab_name": "Naïda Massothérapie",
+      "category": "Lausanne région",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "10 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
+      "last_visit_fr": "2 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
-      "etab_name": "BEAUTY B",
-      "category": "Massage",
-      "canton": "Genève",
+      "badge": "Encore plus de Lausanne région",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Lausanne région",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "category": "Soins Hommes",
-      "canton": "Genève",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Massage",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/"
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "slot": "novelty",

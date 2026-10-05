@@ -1,37 +1,46 @@
 {
   "name": "Catarina",
   "window": {
-    "start": "30 juillet 2026",
-    "end": "29 août 2026"
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
   },
   "stats": {
-    "visites": 1,
-    "top_category": "Soins Duo",
-    "economies_chf": 70,
-    "economies_total_chf": 155
+    "visites": 2,
+    "top_category": "Massage",
+    "economies_chf": 200,
+    "economies_total_chf": 355
   },
   "visites": [
     {
-      "etab_name": "Centre de bien-être J&J",
-      "category": "Soins Duo",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "25 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+    },
+    {
+      "etab_name": "LES TRESOMS",
+      "category": "Massage",
       "canton": null,
       "visit_count": 1,
-      "last_visit_fr": "19 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
+      "last_visit_fr": "7 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Duo",
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "category": "Soins Duo",
-      "canton": "Vaud",
+      "badge": "Encore plus de Massage",
+      "etab_name": "BEAUTY B",
+      "category": "Massage",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
@@ -47,13 +56,13 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "category": "Hôtels",
-      "canton": "Valais",
+      "canton": "Vaud",
       "night_only": true,
-      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

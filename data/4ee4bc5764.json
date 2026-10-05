@@ -1,33 +1,24 @@
 {
   "name": "Marion",
   "window": {
-    "start": "30 juillet 2026",
-    "end": "29 août 2026"
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 170,
-    "economies_total_chf": 705
+    "economies_chf": 60,
+    "economies_total_chf": 765
   },
   "visites": [
     {
-      "etab_name": "Salon Privé Ecublens",
+      "etab_name": "Les Vagabondes",
       "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "20 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
-    },
-    {
-      "etab_name": "Chalet-Hôtel la Marmotte",
-      "category": "Future Maman",
-      "canton": null,
-      "visit_count": 1,
-      "last_visit_fr": "6 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
+      "last_visit_fr": "23 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/"
     }
   ],
   "recos": [
@@ -44,25 +35,25 @@
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "ALEX COIFFURE SARL",
-      "category": "Coiffeur",
-      "canton": "Fribourg",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Bhumi",
+      "category": "Future Maman",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "category": "Hôtels",
-      "canton": "Valais",
+      "canton": "Vaud",
       "night_only": true,
-      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

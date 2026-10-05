@@ -1,68 +1,59 @@
 {
   "name": "Ludovic",
   "window": {
-    "start": "30 juillet 2026",
-    "end": "29 août 2026"
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins du Visage",
-    "economies_chf": 165,
-    "economies_total_chf": 315
+    "visites": 1,
+    "top_category": "Epilation",
+    "economies_chf": 80,
+    "economies_total_chf": 395
   },
   "visites": [
     {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "category": "Coiffure",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "category": "Epilation",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "25 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    },
-    {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "category": "Lausanne région",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "22 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/"
+      "last_visit_fr": "8 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins du Visage",
-      "etab_name": "Bhumi",
-      "category": "Soins du Visage",
-      "canton": "Vaud",
+      "badge": "Encore plus de Epilation",
+      "etab_name": "BEAUTY B",
+      "category": "Epilation",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "1er Acte Coiffure",
+      "etab_name": "Blossom Institut",
       "category": "Soins Hommes",
-      "canton": "Vaud",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
     },
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "category": "Hôtels",
-      "canton": "Valais",
+      "canton": "Vaud",
       "night_only": true,
-      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

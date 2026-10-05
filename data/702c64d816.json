@@ -1,0 +1,59 @@
+{
+  "name": "Meera",
+  "window": {
+    "start": "29 août 2026",
+    "end": "28 septembre 2026"
+  },
+  "stats": {
+    "visites": 1,
+    "top_category": "Fitness",
+    "economies_chf": 200,
+    "economies_total_chf": 200
+  },
+  "visites": [
+    {
+      "etab_name": "LES FITNESS HARMONY",
+      "category": "Fitness",
+      "canton": " ",
+      "visit_count": 1,
+      "last_visit_fr": "28 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": null
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Fitness",
+      "etab_name": "FITNESS HARMONY - BLANDONNET",
+      "category": "Fitness",
+      "canton": "Genève",
+      "night_only": false,
+      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "Une découverte pour vous",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "night_only": false,
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "category": "Hôtels",
+      "canton": "Vaud",
+      "night_only": true,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+    }
+  ]
+}
