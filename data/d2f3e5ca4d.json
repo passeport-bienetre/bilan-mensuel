@@ -1,48 +1,48 @@
 {
   "name": "Valérie",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Massage",
-    "economies_chf": 65,
-    "economies_total_chf": 185
+    "top_category": "Soins Hommes",
+    "economies_chf": 70,
+    "economies_total_chf": 255
   },
   "visites": [
     {
-      "etab_name": "Urban Spa",
-      "category": "Massage",
-      "canton": "Fribourg",
+      "etab_name": "Institut Sabaidee",
+      "category": "Soins Hommes",
+      "canton": "Neuchâtel",
       "visit_count": 1,
-      "last_visit_fr": "14 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/urban-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/"
+      "last_visit_fr": "26 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
-      "etab_name": "EssenCiel Institut",
-      "category": "Massage",
-      "canton": "Fribourg",
+      "badge": "Encore plus de Soins Hommes",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "category": "Soins Hommes",
+      "canton": "Neuchâtel",
       "night_only": false,
-      "blurb": "L'institut EssenCiel travaille autour des huiles essentielles et de la gamme Yon-Ka. Soins ressourçants pour un moment rien qu'à soi.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/"
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "ALEX COIFFURE SARL",
-      "category": "Coiffeur",
-      "canton": "Fribourg",
+      "etab_name": "COMME SUR UN NUAGE",
+      "category": "Future Maman",
+      "canton": "Neuchâtel",
       "night_only": false,
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
     },
     {
       "slot": "novelty",

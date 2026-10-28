@@ -1,16 +1,34 @@
 {
   "name": "Nathalie",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Epilation",
-    "economies_chf": 175,
-    "economies_total_chf": 240
+    "visites": 3,
+    "top_category": "Soins Duo",
+    "economies_chf": 240,
+    "economies_total_chf": 420
   },
   "visites": [
+    {
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "category": "Soins Duo",
+      "canton": "Valais",
+      "visit_count": 1,
+      "last_visit_fr": "25 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "category": "Soins Duo",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "5 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/"
+    },
     {
       "etab_name": "Espace Beauté Sarah",
       "category": "Epilation",
@@ -19,28 +37,19 @@
       "last_visit_fr": "28 septembre 2026",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
-    },
-    {
-      "etab_name": "Institut Guinot",
-      "category": "Epilation",
-      "canton": "Vaud",
-      "visit_count": 1,
-      "last_visit_fr": "12 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Epilation",
-      "etab_name": "Bhumi",
-      "category": "Epilation",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "category": "Soins Duo",
       "canton": "Vaud",
       "night_only": false,
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "slot": "same_canton",
@@ -56,13 +65,13 @@
     {
       "slot": "novelty",
       "badge": "Nouveauté du réseau",
-      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
       "category": "Hôtels",
-      "canton": "Vaud",
+      "canton": "Valais",
       "night_only": true,
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/"
     }
   ]
 }

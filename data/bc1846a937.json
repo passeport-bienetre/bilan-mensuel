@@ -1,48 +1,48 @@
 {
   "name": "Ya",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Hôtels",
-    "economies_chf": 229,
-    "economies_total_chf": 869
+    "top_category": "Future Maman",
+    "economies_chf": 120,
+    "economies_total_chf": 989
   },
   "visites": [
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "category": "Hôtels",
-      "canton": "Valais",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "20 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+      "last_visit_fr": "14 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "On pense que vous allez l'adorer",
-      "etab_name": "Chanelle and Co.",
-      "category": "Hôtels",
-      "canton": "Valais",
+      "badge": "Encore plus de Future Maman",
+      "etab_name": "Bhumi",
+      "category": "Future Maman",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "category": "Soins Duo",
-      "canton": "Valais",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "slot": "novelty",

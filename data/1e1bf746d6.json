@@ -1,33 +1,42 @@
 {
   "name": "Valentine",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 2,
+    "visites": 3,
     "top_category": "Lausanne région",
-    "economies_chf": 160,
-    "economies_total_chf": 830
+    "economies_chf": 303,
+    "economies_total_chf": 1173
   },
   "visites": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "category": "Soins Hommes",
+      "etab_name": "Le Mirador Resort & Spa",
+      "category": "Future Maman",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "18 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+      "last_visit_fr": "27 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
-      "etab_name": "NUTRITION BY AURELIA",
-      "category": "Lausanne région",
+      "etab_name": "BLOOM HAIR SALON",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "15 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nutrition-by-aurelia.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nutrition-by-aurelia/"
+      "last_visit_fr": "19 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bloom-hair-salon.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bloom-hair-salon/"
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "19 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     }
   ],
   "recos": [

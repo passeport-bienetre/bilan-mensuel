@@ -1,16 +1,25 @@
 {
   "name": "Isabelle",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Duo",
-    "economies_chf": 85,
-    "economies_total_chf": 255
+    "economies_chf": 165,
+    "economies_total_chf": 335
   },
   "visites": [
+    {
+      "etab_name": "LES TRESOMS",
+      "category": "Massage",
+      "canton": null,
+      "visit_count": 1,
+      "last_visit_fr": "13 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
     {
       "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
       "category": "Soins Duo",

@@ -1,41 +1,30 @@
 {
   "name": "andrea",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Fitness",
-    "economies_chf": 200,
+    "top_category": "Soins Hommes",
+    "economies_chf": 110,
     "economies_total_chf": 310
   },
   "visites": [
     {
-      "etab_name": "LES FITNESS HARMONY",
-      "category": "Fitness",
-      "canton": " ",
+      "etab_name": "Arte Beauty EPFL",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "22 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": null
+      "last_visit_fr": "30 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Fitness",
-      "etab_name": "FITNESS HARMONY - BLANDONNET",
-      "category": "Fitness",
-      "canton": "Genève",
-      "night_only": false,
-      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "Une découverte pour vous",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -43,6 +32,17 @@
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Bhumi",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "night_only": false,
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "novelty",

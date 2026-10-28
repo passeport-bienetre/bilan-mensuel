@@ -1,32 +1,32 @@
 {
   "name": "Lise",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Hommes",
-    "economies_chf": 110,
-    "economies_total_chf": 110
+    "top_category": "Lausanne région",
+    "economies_chf": 120,
+    "economies_total_chf": 230
   },
   "visites": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "category": "Lausanne région",
+      "canton": null,
       "visit_count": 1,
-      "last_visit_fr": "19 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+      "last_visit_fr": "20 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Lausanne région",
       "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
+      "category": "Lausanne région",
       "canton": "Vaud",
       "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
@@ -35,14 +35,14 @@
     },
     {
       "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Bhumi",
-      "category": "Future Maman",
-      "canton": "Vaud",
+      "badge": "Une découverte pour vous",
+      "etab_name": "ALEX COIFFURE SARL",
+      "category": "Coiffeur",
+      "canton": "Fribourg",
       "night_only": false,
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
     },
     {
       "slot": "novelty",

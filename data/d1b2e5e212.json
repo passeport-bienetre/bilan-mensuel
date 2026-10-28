@@ -1,32 +1,32 @@
 {
   "name": "Garima",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Coiffeur",
-    "economies_chf": 60,
-    "economies_total_chf": 130
+    "top_category": "Soins Hommes",
+    "economies_chf": 65,
+    "economies_total_chf": 195
   },
   "visites": [
     {
-      "etab_name": "Flaventino coiffure Aubonne",
-      "category": "Coiffeur",
+      "etab_name": "Institut Osmose",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "26 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+      "last_visit_fr": "16 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffeur",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
-      "category": "Coiffeur",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",

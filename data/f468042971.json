@@ -1,32 +1,32 @@
 {
   "name": "Christelle",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Coiffeur",
-    "economies_chf": 80,
-    "economies_total_chf": 255
+    "top_category": "Soins Hommes",
+    "economies_chf": 120,
+    "economies_total_chf": 375
   },
   "visites": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "category": "Coiffeur",
+      "etab_name": "Rituels Beauté",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "23 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+      "last_visit_fr": "15 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rituels-beaute/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Coiffeur",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "1er Acte Coiffure",
-      "category": "Coiffeur",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",

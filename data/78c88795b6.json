@@ -1,24 +1,24 @@
 {
   "name": "Laetitia",
   "window": {
-    "start": "30 juillet 2026",
-    "end": "29 août 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Lausanne région",
-    "economies_chf": 95,
-    "economies_total_chf": 295
+    "economies_chf": 125,
+    "economies_total_chf": 420
   },
   "visites": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
+      "etab_name": "JOIA LAUSANNE",
       "category": "Lausanne région",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "3 août 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+      "last_visit_fr": "19 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/"
     }
   ],
   "recos": [

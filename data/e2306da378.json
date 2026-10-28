@@ -1,32 +1,32 @@
 {
   "name": "Carole",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Hommes",
-    "economies_chf": 80,
-    "economies_total_chf": 540
+    "top_category": "Coiffeur",
+    "economies_chf": 65,
+    "economies_total_chf": 625
   },
   "visites": [
     {
-      "etab_name": "Salon Privé Gare",
-      "category": "Soins Hommes",
+      "etab_name": "Signature Coiffure",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "8 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/"
+      "last_visit_fr": "20 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Coiffeur",
       "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "night_only": false,
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",

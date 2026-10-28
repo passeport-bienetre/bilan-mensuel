@@ -1,8 +1,8 @@
 {
   "name": "Cecily",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
@@ -12,13 +12,13 @@
   },
   "visites": [
     {
-      "etab_name": "Chalet-Hôtel la Marmotte",
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
       "category": "Future Maman",
       "canton": null,
       "visit_count": 1,
-      "last_visit_fr": "13 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
+      "last_visit_fr": "4 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     }
   ],
   "recos": [

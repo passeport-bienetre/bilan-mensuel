@@ -1,48 +1,48 @@
 {
   "name": "Annabelle",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
     "top_category": "Soins Hommes",
-    "economies_chf": 85,
-    "economies_total_chf": 480
+    "economies_chf": 95,
+    "economies_total_chf": 575
   },
   "visites": [
     {
-      "etab_name": "Les Cliniques Matignon",
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
       "category": "Soins Hommes",
-      "canton": " ",
+      "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "17 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
-      "etab_url_public": null
+      "last_visit_fr": "23 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Soins Hommes",
-      "etab_name": "1er Acte Coiffure",
+      "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
-      "canton": "Vaud",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "ALEX COIFFURE SARL",
-      "category": "Coiffeur",
-      "canton": "Fribourg",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",

@@ -1,48 +1,57 @@
 {
   "name": "Magali",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 90,
-    "economies_total_chf": 616
+    "economies_chf": 200,
+    "economies_total_chf": 816
   },
   "visites": [
     {
-      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_name": "BuiCil Genève",
       "category": "Soins Hommes",
-      "canton": "Berne",
+      "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "24 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/"
+      "last_visit_fr": "16 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "16 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
       "badge": "Encore plus de Soins Hommes",
-      "etab_name": "Centre Sattva",
+      "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
-      "canton": "Berne",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/"
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "Maison de la Santé Rossfeld",
-      "category": "Massage",
-      "canton": "Berne",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "L'institut de beauté Pfetzer à Berne, surplombant l'Aare. Soins du visage et anti-âge sophistiqués, larges formations : la spécialiste reconnue des problèmes de peau.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-de-la-sante-rossfeld.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-de-la-sante-rossfeld/"
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",

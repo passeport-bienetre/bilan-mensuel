@@ -1,39 +1,41 @@
 {
   "name": "Aurélia",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 180,
-    "economies_total_chf": 480
+    "visites": 1,
+    "top_category": "Soins Duo",
+    "economies_chf": 90,
+    "economies_total_chf": 570
   },
   "visites": [
     {
-      "etab_name": "Blossom Institut",
-      "category": "Soins Hommes",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "category": "Soins Duo",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "16 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
-    },
-    {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "category": "Epilation",
-      "canton": "Genève",
-      "visit_count": 1,
-      "last_visit_fr": "4 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+      "last_visit_fr": "16 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
+      "badge": "Encore plus de Soins Duo",
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "night_only": false,
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
       "etab_name": "BEAUTY B",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -41,17 +43,6 @@
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
-    },
-    {
-      "slot": "same_canton",
-      "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
-      "night_only": false,
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
     },
     {
       "slot": "novelty",

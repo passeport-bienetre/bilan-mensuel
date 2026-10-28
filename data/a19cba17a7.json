@@ -1,57 +1,48 @@
 {
   "name": "Alice",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 2,
-    "top_category": "Soins Hommes",
-    "economies_chf": 155,
-    "economies_total_chf": 510
+    "visites": 1,
+    "top_category": "Soins du Corps",
+    "economies_chf": 100,
+    "economies_total_chf": 610
   },
   "visites": [
     {
-      "etab_name": "SUBLIMEYES",
-      "category": "Soins Hommes",
+      "etab_name": "Le Beausquet Genève",
+      "category": "Soins du Corps",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "21 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
-    },
-    {
-      "etab_name": "Les Cliniques Matignon",
-      "category": "Soins Hommes",
-      "canton": " ",
-      "visit_count": 1,
-      "last_visit_fr": "17 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
-      "etab_url_public": null
+      "last_visit_fr": "27 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Hommes",
-      "etab_name": "1er Acte Coiffure",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
+      "badge": "Encore plus de Soins du Corps",
+      "etab_name": "BEAUTY B",
+      "category": "Soins du Corps",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "slot": "same_canton",
-      "badge": "Une découverte pour vous",
-      "etab_name": "ALEX COIFFURE SARL",
-      "category": "Coiffeur",
-      "canton": "Fribourg",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Parallèles Coiffure",
+      "category": "Coiffure",
+      "canton": "Genève",
       "night_only": false,
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
     },
     {
       "slot": "novelty",

@@ -1,32 +1,32 @@
 {
   "name": "Frédéric",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Massage",
+    "top_category": "Soins Hommes",
     "economies_chf": 100,
     "economies_total_chf": 200
   },
   "visites": [
     {
-      "etab_name": "Lumen Spa & Wellness",
-      "category": "Massage",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "category": "Future Maman",
       "canton": "Valais",
       "visit_count": 1,
-      "last_visit_fr": "5 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/"
+      "last_visit_fr": "3 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Massage",
+      "badge": "Encore plus de Soins Hommes",
       "etab_name": "Chandolin Boutique Hôtel",
-      "category": "Massage",
+      "category": "Soins Hommes",
       "canton": "Valais",
       "night_only": false,
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",

@@ -1,24 +1,33 @@
 {
   "name": "M",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
-    "visites": 1,
+    "visites": 2,
     "top_category": "Soins Hommes",
-    "economies_chf": 75,
-    "economies_total_chf": 435
+    "economies_chf": 180,
+    "economies_total_chf": 615
   },
   "visites": [
     {
-      "etab_name": "Ipanema Beauté",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "category": "Epilation",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "14 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
       "category": "Soins Hommes",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "8 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+      "last_visit_fr": "8 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
     }
   ],
   "recos": [

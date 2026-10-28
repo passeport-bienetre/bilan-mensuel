@@ -1,48 +1,48 @@
 {
   "name": "Bettina",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins du Visage",
-    "economies_chf": 80,
+    "top_category": "Epilation",
+    "economies_chf": 65,
     "economies_total_chf": 330
   },
   "visites": [
     {
-      "etab_name": "GLOW IN GENEVA",
-      "category": "Soins du Visage",
-      "canton": "Genève",
+      "etab_name": "Nail Café",
+      "category": "Epilation",
+      "canton": "Vaud",
       "visit_count": 1,
-      "last_visit_fr": "15 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+      "last_visit_fr": "30 septembre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins du Visage",
-      "etab_name": "BEAUTY B",
-      "category": "Soins du Visage",
-      "canton": "Genève",
+      "badge": "Encore plus de Epilation",
+      "etab_name": "Bhumi",
+      "category": "Epilation",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
     },
     {
       "slot": "same_canton",
       "badge": "À deux pas de chez vous",
-      "etab_name": "Corps Sains",
-      "category": "Future Maman",
-      "canton": "Genève",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
       "night_only": false,
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "slot": "novelty",

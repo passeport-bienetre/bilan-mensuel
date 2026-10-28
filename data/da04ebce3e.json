@@ -1,37 +1,37 @@
 {
   "name": "Mélanie",
   "window": {
-    "start": "29 août 2026",
-    "end": "28 septembre 2026"
+    "start": "28 septembre 2026",
+    "end": "28 octobre 2026"
   },
   "stats": {
     "visites": 1,
-    "top_category": "Soins Bio",
-    "economies_chf": 65,
-    "economies_total_chf": 445
+    "top_category": "Coiffure",
+    "economies_chf": 90,
+    "economies_total_chf": 535
   },
   "visites": [
     {
-      "etab_name": "NUANCES NATURE",
-      "category": "Soins Bio",
+      "etab_name": "Le Bal des Créateurs",
+      "category": "Coiffure",
       "canton": "Genève",
       "visit_count": 1,
-      "last_visit_fr": "22 septembre 2026",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/"
+      "last_visit_fr": "7 octobre 2026",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
     }
   ],
   "recos": [
     {
       "slot": "favorite_category",
-      "badge": "Encore plus de Soins Bio",
-      "etab_name": "Le Cabinet de Beauté",
-      "category": "Soins Bio",
+      "badge": "Encore plus de Coiffure",
+      "etab_name": "Parallèles Coiffure",
+      "category": "Coiffure",
       "canton": "Genève",
       "night_only": false,
-      "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
     },
     {
       "slot": "same_canton",
